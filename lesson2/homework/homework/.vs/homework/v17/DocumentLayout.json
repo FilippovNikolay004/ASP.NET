@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Step\\3 course\\ASP.NET\\lesson2\\homework\\homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D50EDA0-0F5A-433B-ABA6-4E9DEAE442F8}|homework\\homework.csproj|d:\\step\\3 course\\asp.net\\lesson2\\homework\\homework\\homework\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D50EDA0-0F5A-433B-ABA6-4E9DEAE442F8}|homework\\homework.csproj|solutionrelative:homework\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D50EDA0-0F5A-433B-ABA6-4E9DEAE442F8}|homework\\homework.csproj|d:\\step\\3 course\\asp.net\\lesson2\\homework\\homework\\homework\\homepagemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D50EDA0-0F5A-433B-ABA6-4E9DEAE442F8}|homework\\homework.csproj|solutionrelative:homework\\homepagemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D50EDA0-0F5A-433B-ABA6-4E9DEAE442F8}|homework\\homework.csproj|d:\\step\\3 course\\asp.net\\lesson2\\homework\\homework\\homework\\registermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D50EDA0-0F5A-433B-ABA6-4E9DEAE442F8}|homework\\homework.csproj|solutionrelative:homework\\registermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D50EDA0-0F5A-433B-ABA6-4E9DEAE442F8}|homework\\homework.csproj|d:\\step\\3 course\\asp.net\\lesson2\\homework\\homework\\homework\\loginmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D50EDA0-0F5A-433B-ABA6-4E9DEAE442F8}|homework\\homework.csproj|solutionrelative:homework\\loginmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D50EDA0-0F5A-433B-ABA6-4E9DEAE442F8}|homework\\homework.csproj|d:\\step\\3 course\\asp.net\\lesson2\\homework\\homework\\homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D50EDA0-0F5A-433B-ABA6-4E9DEAE442F8}|homework\\homework.csproj|solutionrelative:homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePageMiddleware.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson2\\homework\\homework\\homework\\HomePageMiddleware.cs",
+              "RelativeDocumentMoniker": "homework\\HomePageMiddleware.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson2\\homework\\homework\\homework\\HomePageMiddleware.cs",
+              "RelativeToolTip": "homework\\HomePageMiddleware.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T18:56:47.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "accountManager.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson2\\homework\\homework\\homework\\accountManager.cs",
+              "RelativeDocumentMoniker": "homework\\accountManager.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson2\\homework\\homework\\homework\\accountManager.cs",
+              "RelativeToolTip": "homework\\accountManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T16:52:08.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterMiddleware.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson2\\homework\\homework\\homework\\RegisterMiddleware.cs",
+              "RelativeDocumentMoniker": "homework\\RegisterMiddleware.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson2\\homework\\homework\\homework\\RegisterMiddleware.cs",
+              "RelativeToolTip": "homework\\RegisterMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T16:03:51.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginMiddleware.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson2\\homework\\homework\\homework\\LoginMiddleware.cs",
+              "RelativeDocumentMoniker": "homework\\LoginMiddleware.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson2\\homework\\homework\\homework\\LoginMiddleware.cs",
+              "RelativeToolTip": "homework\\LoginMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:40:57.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson2\\homework\\homework\\homework\\Program.cs",
+              "RelativeDocumentMoniker": "homework\\Program.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson2\\homework\\homework\\homework\\Program.cs",
+              "RelativeToolTip": "homework\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:36:42.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
