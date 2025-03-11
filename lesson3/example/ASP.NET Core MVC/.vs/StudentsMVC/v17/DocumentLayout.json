@@ -42,8 +42,7 @@
               "RelativeToolTip": "StudentsMVC\\Controllers\\StudentController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T12:45:54.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T12:45:54.863Z"
             },
             {
               "$type": "Document",
@@ -53,7 +52,7 @@
               "RelativeDocumentMoniker": "StudentsMVC\\Views\\Student\\Index.cshtml",
               "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson3\\example\\ASP.NET Core MVC\\StudentsMVC\\Views\\Student\\Index.cshtml",
               "RelativeToolTip": "StudentsMVC\\Views\\Student\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-11T12:41:10.244Z",
               "EditorCaption": ""
@@ -68,8 +67,7 @@
               "RelativeToolTip": "StudentsMVC\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T12:35:39.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T12:35:39.77Z"
             }
           ]
         }

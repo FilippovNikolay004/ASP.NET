@@ -11,6 +11,7 @@
         @foreach (var movie in ViewBag.Movies) {
             if (count < 10) {
                 <tr>
+                    <td><img src=@Url.Content(movie.PathToPoster) width="250"/></td>
                     <td><p>@movie.MoveName</p></td>
                     <td><p>@movie.Director</p></td>
                     <td><p>@movie.Genre</p></td>

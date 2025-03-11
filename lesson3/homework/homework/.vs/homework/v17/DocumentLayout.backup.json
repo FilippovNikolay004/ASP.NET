@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{C5B75432-63E6-4D7A-9B0F-57D1A3A83429}|homework\\homework.csproj|solutionrelative:homework\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5B75432-63E6-4D7A-9B0F-57D1A3A83429}|homework\\homework.csproj|d:\\step\\3 course\\asp.net\\lesson3\\homework\\homework\\homework\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5B75432-63E6-4D7A-9B0F-57D1A3A83429}|homework\\homework.csproj|solutionrelative:homework\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C5B75432-63E6-4D7A-9B0F-57D1A3A83429}|homework\\homework.csproj|d:\\step\\3 course\\asp.net\\lesson3\\homework\\homework\\homework\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5B75432-63E6-4D7A-9B0F-57D1A3A83429}|homework\\homework.csproj|solutionrelative:homework\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C5B75432-63E6-4D7A-9B0F-57D1A3A83429}|homework\\homework.csproj|d:\\step\\3 course\\asp.net\\lesson3\\homework\\homework\\homework\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5B75432-63E6-4D7A-9B0F-57D1A3A83429}|homework\\homework.csproj|solutionrelative:homework\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B75432-63E6-4D7A-9B0F-57D1A3A83429}|homework\\homework.csproj|d:\\step\\3 course\\asp.net\\lesson3\\homework\\homework\\homework\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B75432-63E6-4D7A-9B0F-57D1A3A83429}|homework\\homework.csproj|solutionrelative:homework\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson3\\homework\\homework\\homework\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "homework\\Controllers\\HomeController.cs",
@@ -46,12 +46,11 @@
               "RelativeToolTip": "homework\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T12:47:59.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T12:47:59.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MovieController.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson3\\homework\\homework\\homework\\Controllers\\MovieController.cs",
               "RelativeDocumentMoniker": "homework\\Controllers\\MovieController.cs",
@@ -59,18 +58,17 @@
               "RelativeToolTip": "homework\\Controllers\\MovieController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T12:46:36.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T12:46:36.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Movies.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson3\\homework\\homework\\homework\\Models\\Movies.cs",
               "RelativeDocumentMoniker": "homework\\Models\\Movies.cs",
               "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson3\\homework\\homework\\homework\\Models\\Movies.cs",
               "RelativeToolTip": "homework\\Models\\Movies.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T12:47:07.174Z",
               "EditorCaption": ""
@@ -83,7 +81,7 @@
               "RelativeDocumentMoniker": "homework\\Views\\Movie\\Index.cshtml",
               "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson3\\homework\\homework\\homework\\Views\\Movie\\Index.cshtml",
               "RelativeToolTip": "homework\\Views\\Movie\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-11T12:44:10.622Z",
               "EditorCaption": ""

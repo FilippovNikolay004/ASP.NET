@@ -13,6 +13,66 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Step\\3 course\\ASP.NET\\lesson3\\homework\\homework\\homework\\wwwroot\\images\\avatar.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar.jpg"
+    },
+    {
+      "Id": "D:\\Step\\3 course\\ASP.NET\\lesson3\\homework\\homework\\homework\\wwwroot\\images\\fightclub.jpg",
+      "PackagePath": "staticwebassets\\images\\fightclub.jpg"
+    },
+    {
+      "Id": "D:\\Step\\3 course\\ASP.NET\\lesson3\\homework\\homework\\homework\\wwwroot\\images\\gentlemen.jpg",
+      "PackagePath": "staticwebassets\\images\\gentlemen.jpg"
+    },
+    {
+      "Id": "D:\\Step\\3 course\\ASP.NET\\lesson3\\homework\\homework\\homework\\wwwroot\\images\\greenbook.jpg",
+      "PackagePath": "staticwebassets\\images\\greenbook.jpg"
+    },
+    {
+      "Id": "D:\\Step\\3 course\\ASP.NET\\lesson3\\homework\\homework\\homework\\wwwroot\\images\\inception.jpg",
+      "PackagePath": "staticwebassets\\images\\inception.jpg"
+    },
+    {
+      "Id": "D:\\Step\\3 course\\ASP.NET\\lesson3\\homework\\homework\\homework\\wwwroot\\images\\insidious.jpg",
+      "PackagePath": "staticwebassets\\images\\insidious.jpg"
+    },
+    {
+      "Id": "D:\\Step\\3 course\\ASP.NET\\lesson3\\homework\\homework\\homework\\wwwroot\\images\\interstellar.jpg",
+      "PackagePath": "staticwebassets\\images\\interstellar.jpg"
+    },
+    {
+      "Id": "D:\\Step\\3 course\\ASP.NET\\lesson3\\homework\\homework\\homework\\wwwroot\\images\\intouchables.jpg",
+      "PackagePath": "staticwebassets\\images\\intouchables.jpg"
+    },
+    {
+      "Id": "D:\\Step\\3 course\\ASP.NET\\lesson3\\homework\\homework\\homework\\wwwroot\\images\\ironman.jpg",
+      "PackagePath": "staticwebassets\\images\\ironman.jpg"
+    },
+    {
+      "Id": "D:\\Step\\3 course\\ASP.NET\\lesson3\\homework\\homework\\homework\\wwwroot\\images\\joker.jpg",
+      "PackagePath": "staticwebassets\\images\\joker.jpg"
+    },
+    {
+      "Id": "D:\\Step\\3 course\\ASP.NET\\lesson3\\homework\\homework\\homework\\wwwroot\\images\\legend.jpg",
+      "PackagePath": "staticwebassets\\images\\legend.jpg"
+    },
+    {
+      "Id": "D:\\Step\\3 course\\ASP.NET\\lesson3\\homework\\homework\\homework\\wwwroot\\images\\parasite.jpg",
+      "PackagePath": "staticwebassets\\images\\parasite.jpg"
+    },
+    {
+      "Id": "D:\\Step\\3 course\\ASP.NET\\lesson3\\homework\\homework\\homework\\wwwroot\\images\\pulpfiction.jpg",
+      "PackagePath": "staticwebassets\\images\\pulpfiction.jpg"
+    },
+    {
+      "Id": "D:\\Step\\3 course\\ASP.NET\\lesson3\\homework\\homework\\homework\\wwwroot\\images\\thedarkknight.jpg",
+      "PackagePath": "staticwebassets\\images\\thedarkknight.jpg"
+    },
+    {
+      "Id": "D:\\Step\\3 course\\ASP.NET\\lesson3\\homework\\homework\\homework\\wwwroot\\images\\wrathofman.jpg",
+      "PackagePath": "staticwebassets\\images\\wrathofman.jpg"
+    },
+    {
       "Id": "D:\\Step\\3 course\\ASP.NET\\lesson3\\homework\\homework\\homework\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
