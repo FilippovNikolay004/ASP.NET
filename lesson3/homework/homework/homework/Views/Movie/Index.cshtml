@@ -1,0 +1,25 @@
+﻿<div style="padding-top:30px">
+    <h3>Список фильмов</h3>
+    <table class="table">
+        <tr>
+            <td><p>Название</p></td>
+            <td><p>Режиссер</p></td>
+            <td><p>Жанр</p></td>
+            <td><p>Год выпуска</p></td>
+        </tr>
+        @{ int count = 0; }
+        @foreach (var movie in ViewBag.Movies) {
+            if (count < 10) {
+                <tr>
+                    <td><p>@movie.MoveName</p></td>
+                    <td><p>@movie.Director</p></td>
+                    <td><p>@movie.Genre</p></td>
+                    <td><p>@movie.ReleaseYear</p></td>
+                </tr>
+                count++;
+            } else {
+                break;
+            }
+        }
+    </table>
+</div>
