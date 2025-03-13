@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Step\\3 course\\ASP.NET\\lesson4\\homework\\homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6FE11D-6AA6-4C3D-B003-923EB2FACF10}|homework\\homework.csproj|d:\\step\\3 course\\asp.net\\lesson4\\homework\\homework\\homework\\views\\teachersubjectgroup\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E6FE11D-6AA6-4C3D-B003-923EB2FACF10}|homework\\homework.csproj|solutionrelative:homework\\views\\teachersubjectgroup\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6FE11D-6AA6-4C3D-B003-923EB2FACF10}|homework\\homework.csproj|d:\\step\\3 course\\asp.net\\lesson4\\homework\\homework\\homework\\controllers\\teachersubjectgroupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6FE11D-6AA6-4C3D-B003-923EB2FACF10}|homework\\homework.csproj|solutionrelative:homework\\controllers\\teachersubjectgroupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6FE11D-6AA6-4C3D-B003-923EB2FACF10}|homework\\homework.csproj|d:\\step\\3 course\\asp.net\\lesson4\\homework\\homework\\homework\\views\\studentandgroup\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E6FE11D-6AA6-4C3D-B003-923EB2FACF10}|homework\\homework.csproj|solutionrelative:homework\\views\\studentandgroup\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6FE11D-6AA6-4C3D-B003-923EB2FACF10}|homework\\homework.csproj|d:\\step\\3 course\\asp.net\\lesson4\\homework\\homework\\homework\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6FE11D-6AA6-4C3D-B003-923EB2FACF10}|homework\\homework.csproj|solutionrelative:homework\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6FE11D-6AA6-4C3D-B003-923EB2FACF10}|homework\\homework.csproj|d:\\step\\3 course\\asp.net\\lesson4\\homework\\homework\\homework\\controllers\\studentandgroupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6FE11D-6AA6-4C3D-B003-923EB2FACF10}|homework\\homework.csproj|solutionrelative:homework\\controllers\\studentandgroupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6FE11D-6AA6-4C3D-B003-923EB2FACF10}|homework\\homework.csproj|d:\\step\\3 course\\asp.net\\lesson4\\homework\\homework\\homework\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E6FE11D-6AA6-4C3D-B003-923EB2FACF10}|homework\\homework.csproj|solutionrelative:homework\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6FE11D-6AA6-4C3D-B003-923EB2FACF10}|homework\\homework.csproj|d:\\step\\3 course\\asp.net\\lesson4\\homework\\homework\\homework\\models\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6FE11D-6AA6-4C3D-B003-923EB2FACF10}|homework\\homework.csproj|solutionrelative:homework\\models\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6FE11D-6AA6-4C3D-B003-923EB2FACF10}|homework\\homework.csproj|d:\\step\\3 course\\asp.net\\lesson4\\homework\\homework\\homework\\models\\teachersubjectgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6FE11D-6AA6-4C3D-B003-923EB2FACF10}|homework\\homework.csproj|solutionrelative:homework\\models\\teachersubjectgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6FE11D-6AA6-4C3D-B003-923EB2FACF10}|homework\\homework.csproj|d:\\step\\3 course\\asp.net\\lesson4\\homework\\homework\\homework\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6FE11D-6AA6-4C3D-B003-923EB2FACF10}|homework\\homework.csproj|solutionrelative:homework\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6FE11D-6AA6-4C3D-B003-923EB2FACF10}|homework\\homework.csproj|d:\\step\\3 course\\asp.net\\lesson4\\homework\\homework\\homework\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6FE11D-6AA6-4C3D-B003-923EB2FACF10}|homework\\homework.csproj|solutionrelative:homework\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6FE11D-6AA6-4C3D-B003-923EB2FACF10}|homework\\homework.csproj|d:\\step\\3 course\\asp.net\\lesson4\\homework\\homework\\homework\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6FE11D-6AA6-4C3D-B003-923EB2FACF10}|homework\\homework.csproj|solutionrelative:homework\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6FE11D-6AA6-4C3D-B003-923EB2FACF10}|homework\\homework.csproj|d:\\step\\3 course\\asp.net\\lesson4\\homework\\homework\\homework\\models\\groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6FE11D-6AA6-4C3D-B003-923EB2FACF10}|homework\\homework.csproj|solutionrelative:homework\\models\\groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherSubjectGroupController.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson4\\homework\\homework\\homework\\Controllers\\TeacherSubjectGroupController.cs",
+              "RelativeDocumentMoniker": "homework\\Controllers\\TeacherSubjectGroupController.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson4\\homework\\homework\\homework\\Controllers\\TeacherSubjectGroupController.cs",
+              "RelativeToolTip": "homework\\Controllers\\TeacherSubjectGroupController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:08:46.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson4\\homework\\homework\\homework\\Views\\TeacherSubjectGroup\\Index.cshtml",
+              "RelativeDocumentMoniker": "homework\\Views\\TeacherSubjectGroup\\Index.cshtml",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson4\\homework\\homework\\homework\\Views\\TeacherSubjectGroup\\Index.cshtml",
+              "RelativeToolTip": "homework\\Views\\TeacherSubjectGroup\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T08:05:49.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson4\\homework\\homework\\homework\\Views\\StudentAndGroup\\Index.cshtml",
+              "RelativeDocumentMoniker": "homework\\Views\\StudentAndGroup\\Index.cshtml",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson4\\homework\\homework\\homework\\Views\\StudentAndGroup\\Index.cshtml",
+              "RelativeToolTip": "homework\\Views\\StudentAndGroup\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T07:52:49.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson4\\homework\\homework\\homework\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "homework\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson4\\homework\\homework\\homework\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "homework\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:50:14.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentAndGroupController.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson4\\homework\\homework\\homework\\Controllers\\StudentAndGroupController.cs",
+              "RelativeDocumentMoniker": "homework\\Controllers\\StudentAndGroupController.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson4\\homework\\homework\\homework\\Controllers\\StudentAndGroupController.cs",
+              "RelativeToolTip": "homework\\Controllers\\StudentAndGroupController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:50:11.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson4\\homework\\homework\\homework\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "homework\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson4\\homework\\homework\\homework\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "homework\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T07:52:54.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TeacherSubjectGroup.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson4\\homework\\homework\\homework\\Models\\TeacherSubjectGroup.cs",
+              "RelativeDocumentMoniker": "homework\\Models\\TeacherSubjectGroup.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson4\\homework\\homework\\homework\\Models\\TeacherSubjectGroup.cs",
+              "RelativeToolTip": "homework\\Models\\TeacherSubjectGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:43:36.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson4\\homework\\homework\\homework\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "homework\\Models\\Teacher.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson4\\homework\\homework\\homework\\Models\\Teacher.cs",
+              "RelativeToolTip": "homework\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:43:32.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson4\\homework\\homework\\homework\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "homework\\Models\\Subject.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson4\\homework\\homework\\homework\\Models\\Subject.cs",
+              "RelativeToolTip": "homework\\Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:43:28.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson4\\homework\\homework\\homework\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "homework\\Models\\Student.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson4\\homework\\homework\\homework\\Models\\Student.cs",
+              "RelativeToolTip": "homework\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:43:24.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UniversityContext.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson4\\homework\\homework\\homework\\Models\\UniversityContext.cs",
+              "RelativeDocumentMoniker": "homework\\Models\\UniversityContext.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson4\\homework\\homework\\homework\\Models\\UniversityContext.cs",
+              "RelativeToolTip": "homework\\Models\\UniversityContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T12:33:13.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Groups.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson4\\homework\\homework\\homework\\Models\\Groups.cs",
+              "RelativeDocumentMoniker": "homework\\Models\\Groups.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson4\\homework\\homework\\homework\\Models\\Groups.cs",
+              "RelativeToolTip": "homework\\Models\\Groups.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:43:20.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

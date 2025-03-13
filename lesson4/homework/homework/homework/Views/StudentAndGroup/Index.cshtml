@@ -1,0 +1,9 @@
+﻿<div style="padding-top:30px">
+    <h3>Список студентов</h3>
+    <table class="table">
+        <tr><td><p>Имя</p></td><td><p>Фамилия</p></td><td><p>Группа</p></td></tr>
+        @foreach (var st in ViewBag.Students) {
+            <tr><td><p>@st.Name</p></td><td><p>@st.Surname</p></td><td><p>@st.Groups.Name</p></td></tr>
+        }
+    </table>
+</div>

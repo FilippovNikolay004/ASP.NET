@@ -1,0 +1,13 @@
+﻿<div style="padding-top:30px">
+    <h3>Список преподавателей, предметов и групп</h3>
+    <table class="table">
+        <tr><td><p>Имя</p></td><td><p>Фамилия</p></td><td><p>Группа</p></td></tr>
+        @foreach (var tsg in ViewBag.TSG) {
+            <tr>
+                <td>@tsg.Teacher.FirstName @tsg.Teacher.LastName</td>
+                <td>@tsg.Subject.Name</td>
+                <td>@tsg.Group.Name</td>
+            </tr>
+        }
+    </table>
+</div>
