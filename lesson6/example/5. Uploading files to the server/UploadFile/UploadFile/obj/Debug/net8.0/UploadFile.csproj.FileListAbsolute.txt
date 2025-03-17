@@ -1,0 +1,219 @@
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\appsettings.Development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\appsettings.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\UploadFile.staticwebassets.runtime.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\UploadFile.exe
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\UploadFile.deps.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\UploadFile.runtimeconfig.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\UploadFile.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\UploadFile.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Azure.Core.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Azure.Identity.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.csproj.AssemblyReference.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.AssemblyInfoInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.AssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.MvcApplicationPartsAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.RazorAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.RazorAssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\staticwebassets.build.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\staticwebassets.development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\staticwebassets\msbuild.UploadFile.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\staticwebassets\msbuild.build.UploadFile.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UploadFile.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UploadFile.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\scopedcss\bundle\UploadFile.styles.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\scopedcss\projectbundle\UploadFile.bundle.scp.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.csproj.CopyComplete
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\refint\UploadFile.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.genruntimeconfig.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\ref\UploadFile.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\appsettings.json
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\UploadFile.staticwebassets.runtime.json
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\UploadFile.staticwebassets.endpoints.json
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\UploadFile.exe
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\UploadFile.deps.json
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\UploadFile.runtimeconfig.json
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\UploadFile.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\UploadFile.pdb
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.csproj.AssemblyReference.cache
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.AssemblyInfoInputs.cache
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.AssemblyInfo.cs
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.csproj.CoreCompileInputs.cache
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.RazorAssemblyInfo.cache
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.RazorAssemblyInfo.cs
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\scopedcss\bundle\UploadFile.styles.css
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\scopedcss\projectbundle\UploadFile.bundle.scp.css
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\staticwebassets\msbuild.UploadFile.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\staticwebassets\msbuild.UploadFile.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\staticwebassets\msbuild.build.UploadFile.props
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UploadFile.props
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UploadFile.props
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.csproj.Up2Date
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\refint\UploadFile.dll
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.pdb
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.genruntimeconfig.cache
+C:\Users\krisc\OneDrive\Desktop\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\ref\UploadFile.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\appsettings.Development.json
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\appsettings.json
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\UploadFile.staticwebassets.runtime.json
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\UploadFile.staticwebassets.endpoints.json
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\UploadFile.exe
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\UploadFile.deps.json
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\UploadFile.runtimeconfig.json
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\UploadFile.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\UploadFile.pdb
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Azure.Core.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Azure.Identity.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.csproj.AssemblyReference.cache
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.AssemblyInfoInputs.cache
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.AssemblyInfo.cs
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.csproj.CoreCompileInputs.cache
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.MvcApplicationPartsAssemblyInfo.cache
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.RazorAssemblyInfo.cache
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.RazorAssemblyInfo.cs
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.sourcelink.json
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\scopedcss\bundle\UploadFile.styles.css
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\scopedcss\projectbundle\UploadFile.bundle.scp.css
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\staticwebassets.build.json
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\staticwebassets.development.json
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\staticwebassets\msbuild.UploadFile.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\staticwebassets\msbuild.UploadFile.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\staticwebassets\msbuild.build.UploadFile.props
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UploadFile.props
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UploadFile.props
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.csproj.Up2Date
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\refint\UploadFile.dll
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.pdb
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\UploadFile.genruntimeconfig.cache
+D:\Step\3 course\ASP.NET\lesson6\example\5. Uploading files to the server\UploadFile\UploadFile\obj\Debug\net8.0\ref\UploadFile.dll

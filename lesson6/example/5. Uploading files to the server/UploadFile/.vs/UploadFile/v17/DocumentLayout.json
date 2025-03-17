@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Step\\3 course\\ASP.NET\\lesson6\\example\\5. Uploading files to the server\\UploadFile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64F00E26-859B-477A-9DDD-59F343828578}|UploadFile\\UploadFile.csproj|d:\\step\\3 course\\asp.net\\lesson6\\example\\5. uploading files to the server\\uploadfile\\uploadfile\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64F00E26-859B-477A-9DDD-59F343828578}|UploadFile\\UploadFile.csproj|solutionrelative:uploadfile\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F00E26-859B-477A-9DDD-59F343828578}|UploadFile\\UploadFile.csproj|d:\\step\\3 course\\asp.net\\lesson6\\example\\5. uploading files to the server\\uploadfile\\uploadfile\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F00E26-859B-477A-9DDD-59F343828578}|UploadFile\\UploadFile.csproj|solutionrelative:uploadfile\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson6\\example\\5. Uploading files to the server\\UploadFile\\UploadFile\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UploadFile\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson6\\example\\5. Uploading files to the server\\UploadFile\\UploadFile\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UploadFile\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T10:55:02.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson6\\example\\5. Uploading files to the server\\UploadFile\\UploadFile\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UploadFile\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson6\\example\\5. Uploading files to the server\\UploadFile\\UploadFile\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UploadFile\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:45:52.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
