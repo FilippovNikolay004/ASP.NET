@@ -1,0 +1,771 @@
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.csproj.AssemblyReference.cache
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.AssemblyInfoInputs.cache
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.AssemblyInfo.cs
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.csproj.CoreCompileInputs.cache
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.RazorAssemblyInfo.cache
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.RazorAssemblyInfo.cs
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\appsettings.Development.json
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\appsettings.json
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.staticwebassets.runtime.json
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.exe
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.deps.json
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.runtimeconfig.json
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.pdb
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Azure.Core.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Azure.Identity.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Memory.Data.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets.build.json
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets.development.json
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets\msbuild.StudentsMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentsMVC.props
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentsMVC.props
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentsMVC.props
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets.pack.json
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\scopedcss\bundle\StudentsMVC.styles.css
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\scopedcss\projectbundle\StudentsMVC.bundle.scp.css
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.csproj.CopyComplete
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.dll
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\refint\StudentsMVC.dll
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.pdb
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.genruntimeconfig.cache
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\ref\StudentsMVC.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Humanizer.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Build.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\NuGet.Common.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.CodeDom.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\appsettings.json
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.staticwebassets.runtime.json
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.staticwebassets.endpoints.json
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.exe
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.deps.json
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.runtimeconfig.json
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.pdb
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Humanizer.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.csproj.AssemblyReference.cache
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.AssemblyInfoInputs.cache
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.AssemblyInfo.cs
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.csproj.CoreCompileInputs.cache
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.RazorAssemblyInfo.cache
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.RazorAssemblyInfo.cs
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\scopedcss\bundle\StudentsMVC.styles.css
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\scopedcss\projectbundle\StudentsMVC.bundle.scp.css
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets\msbuild.StudentsMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets\msbuild.StudentsMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentsMVC.props
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentsMVC.props
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentsMVC.props
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\Students.76862C70.Up2Date
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\refint\StudentsMVC.dll
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.pdb
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.genruntimeconfig.cache
+C:\Users\krisc\OneDrive\Desktop\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\ref\StudentsMVC.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\appsettings.Development.json
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\appsettings.json
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.staticwebassets.runtime.json
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.staticwebassets.endpoints.json
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.exe
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.deps.json
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.runtimeconfig.json
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.pdb
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Azure.Core.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Azure.Identity.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Humanizer.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\NuGet.Common.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.CodeDom.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.csproj.AssemblyReference.cache
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.AssemblyInfoInputs.cache
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.AssemblyInfo.cs
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.csproj.CoreCompileInputs.cache
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.RazorAssemblyInfo.cache
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.RazorAssemblyInfo.cs
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.sourcelink.json
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\scopedcss\bundle\StudentsMVC.styles.css
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\scopedcss\projectbundle\StudentsMVC.bundle.scp.css
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets.build.json
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets.development.json
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets\msbuild.StudentsMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets\msbuild.StudentsMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentsMVC.props
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentsMVC.props
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentsMVC.props
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\Students.76862C70.Up2Date
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\refint\StudentsMVC.dll
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.pdb
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.genruntimeconfig.cache
+D:\Step\3 course\ASP.NET\lesson5\example\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\obj\Debug\net8.0\ref\StudentsMVC.dll

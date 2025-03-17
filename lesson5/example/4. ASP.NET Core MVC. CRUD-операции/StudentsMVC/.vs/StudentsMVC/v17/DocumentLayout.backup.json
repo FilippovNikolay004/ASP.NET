@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Step\\3 course\\ASP.NET\\lesson5\\example\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\StudentsMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB7471F-1D40-4051-8D8E-3E042C73F494}|StudentsMVC\\StudentsMVC.csproj|d:\\step\\3 course\\asp.net\\lesson5\\example\\4. asp.net core mvc. crud-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\studentsmvc\\studentsmvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AB7471F-1D40-4051-8D8E-3E042C73F494}|StudentsMVC\\StudentsMVC.csproj|solutionrelative:studentsmvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB7471F-1D40-4051-8D8E-3E042C73F494}|StudentsMVC\\StudentsMVC.csproj|d:\\step\\3 course\\asp.net\\lesson5\\example\\4. asp.net core mvc. crud-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\studentsmvc\\studentsmvc\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AB7471F-1D40-4051-8D8E-3E042C73F494}|StudentsMVC\\StudentsMVC.csproj|solutionrelative:studentsmvc\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB7471F-1D40-4051-8D8E-3E042C73F494}|StudentsMVC\\StudentsMVC.csproj|d:\\step\\3 course\\asp.net\\lesson5\\example\\4. asp.net core mvc. crud-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\studentsmvc\\studentsmvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB7471F-1D40-4051-8D8E-3E042C73F494}|StudentsMVC\\StudentsMVC.csproj|solutionrelative:studentsmvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson5\\example\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\StudentsMVC\\StudentsMVC\\Views\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "StudentsMVC\\Views\\Students\\Details.cshtml",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson5\\example\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\StudentsMVC\\StudentsMVC\\Views\\Students\\Details.cshtml",
+              "RelativeToolTip": "StudentsMVC\\Views\\Students\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T09:33:28.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson5\\example\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\StudentsMVC\\StudentsMVC\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentsMVC\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson5\\example\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\StudentsMVC\\StudentsMVC\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentsMVC\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:30:41.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson5\\example\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\StudentsMVC\\StudentsMVC\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentsMVC\\Views\\Students\\Index.cshtml",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson5\\example\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\StudentsMVC\\StudentsMVC\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "StudentsMVC\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T09:23:42.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
