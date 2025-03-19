@@ -4,7 +4,9 @@ wwwroot\Files\20210801_153914.jpg
 wwwroot\Files\ADSC_12056.JPG
 wwwroot\Files\DSC_4473.JPG
 wwwroot\Files\IMG_20160729_190126.jpg
+wwwroot\Files\IMG_5678-fotor-20240709125246.jpg
 wwwroot\Files\IMG_7357.JPG
+wwwroot\Files\photo-1541516160071-4bb0c5af65ba.jpg
 wwwroot\Files\Девис_Джеймс_Решаем_задачи_Python_2024.pdf
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css

@@ -21,8 +21,16 @@
       "PackagePath": "staticwebassets\\Files\\IMG_20160729_190126.jpg"
     },
     {
+      "Id": "D:\\Step\\3 course\\ASP.NET\\lesson6\\example\\5. Uploading files to the server\\UploadFile\\UploadFile\\wwwroot\\Files\\IMG_5678-fotor-20240709125246.jpg",
+      "PackagePath": "staticwebassets\\Files\\IMG_5678-fotor-20240709125246.jpg"
+    },
+    {
       "Id": "D:\\Step\\3 course\\ASP.NET\\lesson6\\example\\5. Uploading files to the server\\UploadFile\\UploadFile\\wwwroot\\Files\\IMG_7357.JPG",
       "PackagePath": "staticwebassets\\Files\\IMG_7357.JPG"
+    },
+    {
+      "Id": "D:\\Step\\3 course\\ASP.NET\\lesson6\\example\\5. Uploading files to the server\\UploadFile\\UploadFile\\wwwroot\\Files\\photo-1541516160071-4bb0c5af65ba.jpg",
+      "PackagePath": "staticwebassets\\Files\\photo-1541516160071-4bb0c5af65ba.jpg"
     },
     {
       "Id": "D:\\Step\\3 course\\ASP.NET\\lesson6\\example\\5. Uploading files to the server\\UploadFile\\UploadFile\\wwwroot\\Files\\Девис_Джеймс_Решаем_задачи_Python_2024.pdf",

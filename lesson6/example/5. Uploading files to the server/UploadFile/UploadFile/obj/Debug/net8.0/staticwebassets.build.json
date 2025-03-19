@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "428qujD1Be/QvSxty6B2W4Z62JoWZ8S99NqWEr5Mi7E=",
+  "Hash": "TSIxJtRcHXj45MgbvxQ+JMNWndVoHHSgGCP3yLzIzSk=",
   "Source": "UploadFile",
   "BasePath": "_content/UploadFile",
   "Mode": "Default",
@@ -185,6 +185,27 @@
       "OriginalItemSpec": "wwwroot\\Files\\IMG_20160729_190126.jpg"
     },
     {
+      "Identity": "D:\\Step\\3 course\\ASP.NET\\lesson6\\example\\5. Uploading files to the server\\UploadFile\\UploadFile\\wwwroot\\Files\\IMG_5678-fotor-20240709125246.jpg",
+      "SourceId": "UploadFile",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Step\\3 course\\ASP.NET\\lesson6\\example\\5. Uploading files to the server\\UploadFile\\UploadFile\\wwwroot\\",
+      "BasePath": "_content/UploadFile",
+      "RelativePath": "Files/IMG_5678-fotor-20240709125246#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2d8v7022w6",
+      "Integrity": "FkMsTY6KGPAijeMu1w6EuVj/ERTOoF24KczC7TRwygA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\IMG_5678-fotor-20240709125246.jpg"
+    },
+    {
       "Identity": "D:\\Step\\3 course\\ASP.NET\\lesson6\\example\\5. Uploading files to the server\\UploadFile\\UploadFile\\wwwroot\\Files\\IMG_7357.JPG",
       "SourceId": "UploadFile",
       "SourceType": "Discovered",
@@ -204,6 +225,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Files\\IMG_7357.JPG"
+    },
+    {
+      "Identity": "D:\\Step\\3 course\\ASP.NET\\lesson6\\example\\5. Uploading files to the server\\UploadFile\\UploadFile\\wwwroot\\Files\\photo-1541516160071-4bb0c5af65ba.jpg",
+      "SourceId": "UploadFile",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Step\\3 course\\ASP.NET\\lesson6\\example\\5. Uploading files to the server\\UploadFile\\UploadFile\\wwwroot\\",
+      "BasePath": "_content/UploadFile",
+      "RelativePath": "Files/photo-1541516160071-4bb0c5af65ba#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zyfqtmao5i",
+      "Integrity": "W8gteNVXHDpLCXPDxq388azRyuRPFS1ZrcXoSnSyEvE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\photo-1541516160071-4bb0c5af65ba.jpg"
     },
     {
       "Identity": "D:\\Step\\3 course\\ASP.NET\\lesson6\\example\\5. Uploading files to the server\\UploadFile\\UploadFile\\wwwroot\\Files\\Девис_Джеймс_Решаем_задачи_Python_2024.pdf",
@@ -1939,6 +1981,88 @@
       ]
     },
     {
+      "Route": "Files/IMG_5678-fotor-20240709125246.2d8v7022w6.jpg",
+      "AssetFile": "D:\\Step\\3 course\\ASP.NET\\lesson6\\example\\5. Uploading files to the server\\UploadFile\\UploadFile\\wwwroot\\Files\\IMG_5678-fotor-20240709125246.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "674487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FkMsTY6KGPAijeMu1w6EuVj/ERTOoF24KczC7TRwygA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 10:30:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2d8v7022w6"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/IMG_5678-fotor-20240709125246.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FkMsTY6KGPAijeMu1w6EuVj/ERTOoF24KczC7TRwygA="
+        }
+      ]
+    },
+    {
+      "Route": "Files/IMG_5678-fotor-20240709125246.jpg",
+      "AssetFile": "D:\\Step\\3 course\\ASP.NET\\lesson6\\example\\5. Uploading files to the server\\UploadFile\\UploadFile\\wwwroot\\Files\\IMG_5678-fotor-20240709125246.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "674487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FkMsTY6KGPAijeMu1w6EuVj/ERTOoF24KczC7TRwygA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 10:30:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FkMsTY6KGPAijeMu1w6EuVj/ERTOoF24KczC7TRwygA="
+        }
+      ]
+    },
+    {
       "Route": "Files/IMG_7357.JPG",
       "AssetFile": "D:\\Step\\3 course\\ASP.NET\\lesson6\\example\\5. Uploading files to the server\\UploadFile\\UploadFile\\wwwroot\\Files\\IMG_7357.JPG",
       "Selectors": [],
@@ -2017,6 +2141,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-fujJ5rTmnoNgCi8lJErlMM21QHJX5nopmeyruNuQkxU="
+        }
+      ]
+    },
+    {
+      "Route": "Files/photo-1541516160071-4bb0c5af65ba.jpg",
+      "AssetFile": "D:\\Step\\3 course\\ASP.NET\\lesson6\\example\\5. Uploading files to the server\\UploadFile\\UploadFile\\wwwroot\\Files\\photo-1541516160071-4bb0c5af65ba.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "454085"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W8gteNVXHDpLCXPDxq388azRyuRPFS1ZrcXoSnSyEvE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 08:39:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W8gteNVXHDpLCXPDxq388azRyuRPFS1ZrcXoSnSyEvE="
+        }
+      ]
+    },
+    {
+      "Route": "Files/photo-1541516160071-4bb0c5af65ba.zyfqtmao5i.jpg",
+      "AssetFile": "D:\\Step\\3 course\\ASP.NET\\lesson6\\example\\5. Uploading files to the server\\UploadFile\\UploadFile\\wwwroot\\Files\\photo-1541516160071-4bb0c5af65ba.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "454085"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W8gteNVXHDpLCXPDxq388azRyuRPFS1ZrcXoSnSyEvE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 08:39:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zyfqtmao5i"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/photo-1541516160071-4bb0c5af65ba.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W8gteNVXHDpLCXPDxq388azRyuRPFS1ZrcXoSnSyEvE="
         }
       ]
     },
