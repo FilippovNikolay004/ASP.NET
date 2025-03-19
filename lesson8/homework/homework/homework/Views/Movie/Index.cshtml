@@ -1,0 +1,30 @@
+﻿<div style="padding-top:30px">
+    <h3>Список фильмов</h3>
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+    <table class="table">
+        <tr>
+            <td><p>Постер</p></td>
+            <td><p>Название</p></td>
+            <td><p>Режиссер</p></td>
+            <td><p>Жанр</p></td>
+            <td><p>Год выпуска</p></td>
+            <td><p>Настройки</p></td>
+        </tr>
+        @foreach (var movie in ViewBag.Movies) {
+            <tr>
+                <td><img src=@Url.Content(movie.Path + movie.FileName) width="250" /></td>
+                <td><p>@movie.MoveName</p></td>
+                <td><p>@movie.Director</p></td>
+                <td><p>@movie.Genre</p></td>
+                <td><p>@movie.ReleaseYear</p></td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@movie.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@movie.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@movie.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </table>
+</div>
