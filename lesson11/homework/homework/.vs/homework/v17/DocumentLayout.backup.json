@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Step\\3 course\\ASP.NET\\lesson11\\homework\\homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60B622D7-B5B6-4D65-A418-6328A1AC1AD4}|homework\\homework.csproj|d:\\step\\3 course\\asp.net\\lesson11\\homework\\homework\\homework\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B622D7-B5B6-4D65-A418-6328A1AC1AD4}|homework\\homework.csproj|solutionrelative:homework\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B622D7-B5B6-4D65-A418-6328A1AC1AD4}|homework\\homework.csproj|d:\\step\\3 course\\asp.net\\lesson11\\homework\\homework\\homework\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B622D7-B5B6-4D65-A418-6328A1AC1AD4}|homework\\homework.csproj|solutionrelative:homework\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B622D7-B5B6-4D65-A418-6328A1AC1AD4}|homework\\homework.csproj|d:\\step\\3 course\\asp.net\\lesson11\\homework\\homework\\homework\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B622D7-B5B6-4D65-A418-6328A1AC1AD4}|homework\\homework.csproj|solutionrelative:homework\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B622D7-B5B6-4D65-A418-6328A1AC1AD4}|homework\\homework.csproj|d:\\step\\3 course\\asp.net\\lesson11\\homework\\homework\\homework\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B622D7-B5B6-4D65-A418-6328A1AC1AD4}|homework\\homework.csproj|solutionrelative:homework\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson11\\homework\\homework\\homework\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "homework\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson11\\homework\\homework\\homework\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "homework\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T04:25:17.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson11\\homework\\homework\\homework\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "homework\\Repository\\IRepository.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson11\\homework\\homework\\homework\\Repository\\IRepository.cs",
+              "RelativeToolTip": "homework\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T04:21:06.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson11\\homework\\homework\\homework\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "homework\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson11\\homework\\homework\\homework\\Controllers\\AccountController.cs*",
+              "RelativeToolTip": "homework\\Controllers\\AccountController.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwEUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T04:11:58.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson11\\homework\\homework\\homework\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "homework\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson11\\homework\\homework\\homework\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "homework\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T04:26:32.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\bin\Debug\net7.0\appsettings.json
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\bin\Debug\net7.0\ServicesInMiddleware.staticwebassets.runtime.json
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\bin\Debug\net7.0\ServicesInMiddleware.exe
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\bin\Debug\net7.0\ServicesInMiddleware.deps.json
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\bin\Debug\net7.0\ServicesInMiddleware.runtimeconfig.json
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\bin\Debug\net7.0\ServicesInMiddleware.dll
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\bin\Debug\net7.0\ServicesInMiddleware.pdb
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.AssemblyInfo.cs
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.RazorAssemblyInfo.cache
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.RazorAssemblyInfo.cs
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\staticwebassets\msbuild.ServicesInMiddleware.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\staticwebassets\msbuild.build.ServicesInMiddleware.props
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ServicesInMiddleware.props
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ServicesInMiddleware.props
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\scopedcss\bundle\ServicesInMiddleware.styles.css
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\scopedcss\projectbundle\ServicesInMiddleware.bundle.scp.css
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.dll
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\refint\ServicesInMiddleware.dll
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.pdb
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.genruntimeconfig.cache
+C:\Users\Admin\Downloads\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ref\ServicesInMiddleware.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\bin\Debug\net7.0\appsettings.Development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\bin\Debug\net7.0\appsettings.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\bin\Debug\net7.0\ServicesInMiddleware.staticwebassets.runtime.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\bin\Debug\net7.0\ServicesInMiddleware.exe
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\bin\Debug\net7.0\ServicesInMiddleware.deps.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\bin\Debug\net7.0\ServicesInMiddleware.runtimeconfig.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\bin\Debug\net7.0\ServicesInMiddleware.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\bin\Debug\net7.0\ServicesInMiddleware.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.csproj.AssemblyReference.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.AssemblyInfoInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.AssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.MvcApplicationPartsAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.RazorAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.RazorAssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\staticwebassets\msbuild.ServicesInMiddleware.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\staticwebassets\msbuild.build.ServicesInMiddleware.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ServicesInMiddleware.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ServicesInMiddleware.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\scopedcss\bundle\ServicesInMiddleware.styles.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\scopedcss\projectbundle\ServicesInMiddleware.bundle.scp.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\refint\ServicesInMiddleware.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.genruntimeconfig.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ref\ServicesInMiddleware.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\bin\Debug\net7.0\appsettings.Development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\bin\Debug\net7.0\appsettings.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\bin\Debug\net7.0\ServicesInMiddleware.staticwebassets.runtime.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\bin\Debug\net7.0\ServicesInMiddleware.exe
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\bin\Debug\net7.0\ServicesInMiddleware.deps.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\bin\Debug\net7.0\ServicesInMiddleware.runtimeconfig.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\bin\Debug\net7.0\ServicesInMiddleware.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\bin\Debug\net7.0\ServicesInMiddleware.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.AssemblyInfoInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.AssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.MvcApplicationPartsAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.RazorAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.RazorAssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\staticwebassets\msbuild.ServicesInMiddleware.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\staticwebassets\msbuild.build.ServicesInMiddleware.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ServicesInMiddleware.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ServicesInMiddleware.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\scopedcss\bundle\ServicesInMiddleware.styles.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\scopedcss\projectbundle\ServicesInMiddleware.bundle.scp.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\refint\ServicesInMiddleware.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ServicesInMiddleware.genruntimeconfig.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Application of services in middleware\ServicesInMiddleware\ServicesInMiddleware\obj\Debug\net7.0\ref\ServicesInMiddleware.dll
