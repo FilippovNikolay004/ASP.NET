@@ -1,0 +1,61 @@
+C:\Users\Admin\Downloads\Soccer\Soccer.BLL\bin\Debug\net7.0\Soccer.BLL.deps.json
+C:\Users\Admin\Downloads\Soccer\Soccer.BLL\bin\Debug\net7.0\Soccer.BLL.dll
+C:\Users\Admin\Downloads\Soccer\Soccer.BLL\bin\Debug\net7.0\Soccer.BLL.pdb
+C:\Users\Admin\Downloads\Soccer\Soccer.BLL\bin\Debug\net7.0\Soccer.DAL.dll
+C:\Users\Admin\Downloads\Soccer\Soccer.BLL\bin\Debug\net7.0\Soccer.DAL.pdb
+C:\Users\Admin\Downloads\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.csproj.CopyComplete
+C:\Users\Admin\Downloads\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.dll
+C:\Users\Admin\Downloads\Soccer\Soccer.BLL\obj\Debug\net7.0\refint\Soccer.BLL.dll
+C:\Users\Admin\Downloads\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.pdb
+C:\Users\Admin\Downloads\Soccer\Soccer.BLL\obj\Debug\net7.0\ref\Soccer.BLL.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer.BLL\bin\Debug\net7.0\Soccer.BLL.deps.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer.BLL\bin\Debug\net7.0\Soccer.BLL.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer.BLL\bin\Debug\net7.0\Soccer.BLL.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer.BLL\bin\Debug\net7.0\Soccer.DAL.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer.BLL\bin\Debug\net7.0\Soccer.DAL.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.csproj.AssemblyReference.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.AssemblyInfoInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.AssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.csproj.CopyComplete
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\refint\Soccer.BLL.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\ref\Soccer.BLL.dll
+C:\Users\krisc\OneDrive\Desktop\13. Layered architecture\Soccer\Soccer.BLL\bin\Debug\net7.0\Soccer.BLL.deps.json
+C:\Users\krisc\OneDrive\Desktop\13. Layered architecture\Soccer\Soccer.BLL\bin\Debug\net7.0\Soccer.BLL.dll
+C:\Users\krisc\OneDrive\Desktop\13. Layered architecture\Soccer\Soccer.BLL\bin\Debug\net7.0\Soccer.BLL.pdb
+C:\Users\krisc\OneDrive\Desktop\13. Layered architecture\Soccer\Soccer.BLL\bin\Debug\net7.0\Soccer.DAL.dll
+C:\Users\krisc\OneDrive\Desktop\13. Layered architecture\Soccer\Soccer.BLL\bin\Debug\net7.0\Soccer.DAL.pdb
+C:\Users\krisc\OneDrive\Desktop\13. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.csproj.AssemblyReference.cache
+C:\Users\krisc\OneDrive\Desktop\13. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisc\OneDrive\Desktop\13. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.AssemblyInfoInputs.cache
+C:\Users\krisc\OneDrive\Desktop\13. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.AssemblyInfo.cs
+C:\Users\krisc\OneDrive\Desktop\13. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.csproj.CoreCompileInputs.cache
+C:\Users\krisc\OneDrive\Desktop\13. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.csproj.Up2Date
+C:\Users\krisc\OneDrive\Desktop\13. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.dll
+C:\Users\krisc\OneDrive\Desktop\13. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\refint\Soccer.BLL.dll
+C:\Users\krisc\OneDrive\Desktop\13. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.pdb
+C:\Users\krisc\OneDrive\Desktop\13. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\ref\Soccer.BLL.dll
+D:\Step\3 course\ASP.NET\lesson13\example\13. Layered architecture\Soccer\Soccer.BLL\bin\Debug\net7.0\Soccer.BLL.deps.json
+D:\Step\3 course\ASP.NET\lesson13\example\13. Layered architecture\Soccer\Soccer.BLL\bin\Debug\net7.0\Soccer.BLL.dll
+D:\Step\3 course\ASP.NET\lesson13\example\13. Layered architecture\Soccer\Soccer.BLL\bin\Debug\net7.0\Soccer.BLL.pdb
+D:\Step\3 course\ASP.NET\lesson13\example\13. Layered architecture\Soccer\Soccer.BLL\bin\Debug\net7.0\Soccer.DAL.dll
+D:\Step\3 course\ASP.NET\lesson13\example\13. Layered architecture\Soccer\Soccer.BLL\bin\Debug\net7.0\Soccer.DAL.pdb
+D:\Step\3 course\ASP.NET\lesson13\example\13. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.csproj.AssemblyReference.cache
+D:\Step\3 course\ASP.NET\lesson13\example\13. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\3 course\ASP.NET\lesson13\example\13. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.AssemblyInfoInputs.cache
+D:\Step\3 course\ASP.NET\lesson13\example\13. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.AssemblyInfo.cs
+D:\Step\3 course\ASP.NET\lesson13\example\13. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.csproj.CoreCompileInputs.cache
+D:\Step\3 course\ASP.NET\lesson13\example\13. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.sourcelink.json
+D:\Step\3 course\ASP.NET\lesson13\example\13. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.csproj.Up2Date
+D:\Step\3 course\ASP.NET\lesson13\example\13. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.dll
+D:\Step\3 course\ASP.NET\lesson13\example\13. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\refint\Soccer.BLL.dll
+D:\Step\3 course\ASP.NET\lesson13\example\13. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\Soccer.BLL.pdb
+D:\Step\3 course\ASP.NET\lesson13\example\13. Layered architecture\Soccer\Soccer.BLL\obj\Debug\net7.0\ref\Soccer.BLL.dll

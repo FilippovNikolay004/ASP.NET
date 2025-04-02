@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\12. DependencyInjection\\DependencyInjection\\DependencyInjection\\DependencyInjection.csproj": {}
+    "D:\\Step\\3 course\\ASP.NET\\lesson11\\example\\12. DependencyInjection\\DependencyInjection\\DependencyInjection\\DependencyInjection.csproj": {}
   },
   "projects": {
-    "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\12. DependencyInjection\\DependencyInjection\\DependencyInjection\\DependencyInjection.csproj": {
+    "D:\\Step\\3 course\\ASP.NET\\lesson11\\example\\12. DependencyInjection\\DependencyInjection\\DependencyInjection\\DependencyInjection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\12. DependencyInjection\\DependencyInjection\\DependencyInjection\\DependencyInjection.csproj",
+        "projectUniqueName": "D:\\Step\\3 course\\ASP.NET\\lesson11\\example\\12. DependencyInjection\\DependencyInjection\\DependencyInjection\\DependencyInjection.csproj",
         "projectName": "DependencyInjection",
-        "projectPath": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\12. DependencyInjection\\DependencyInjection\\DependencyInjection\\DependencyInjection.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\12. DependencyInjection\\DependencyInjection\\DependencyInjection\\obj\\",
+        "projectPath": "D:\\Step\\3 course\\ASP.NET\\lesson11\\example\\12. DependencyInjection\\DependencyInjection\\DependencyInjection\\DependencyInjection.csproj",
+        "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
+        "outputPath": "D:\\Step\\3 course\\ASP.NET\\lesson11\\example\\12. DependencyInjection\\DependencyInjection\\DependencyInjection\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Nikolay Filippov\\Program files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,7 +38,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -58,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

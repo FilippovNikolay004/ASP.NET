@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,19 +38,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson11\\homework\\homework\\homework\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "homework\\Repository\\UserRepository.cs",
-              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson11\\homework\\homework\\homework\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "homework\\Repository\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T04:25:17.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "IRepository.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson11\\homework\\homework\\homework\\Repository\\IRepository.cs",
@@ -59,8 +46,7 @@
               "RelativeToolTip": "homework\\Repository\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T04:21:06.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T04:21:06.33Z"
             },
             {
               "$type": "Document",
@@ -70,10 +56,22 @@
               "RelativeDocumentMoniker": "homework\\Controllers\\AccountController.cs",
               "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson11\\homework\\homework\\homework\\Controllers\\AccountController.cs",
               "RelativeToolTip": "homework\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwEUAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wEUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T04:11:58.555Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson11\\homework\\homework\\homework\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "homework\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson11\\homework\\homework\\homework\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "homework\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T04:25:17.892Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "homework\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T04:26:32.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T04:26:32.325Z"
             }
           ]
         }

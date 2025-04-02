@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Step\\3 course\\ASP.NET\\lesson11\\example\\12. DependencyInjection\\DependencyInjection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29AE06BE-8121-492C-B5F0-5374D58CDE3E}|DependencyInjection\\DependencyInjection.csproj|d:\\step\\3 course\\asp.net\\lesson11\\example\\12. dependencyinjection\\dependencyinjection\\dependencyinjection\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AE06BE-8121-492C-B5F0-5374D58CDE3E}|DependencyInjection\\DependencyInjection.csproj|solutionrelative:dependencyinjection\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AE06BE-8121-492C-B5F0-5374D58CDE3E}|DependencyInjection\\DependencyInjection.csproj|d:\\step\\3 course\\asp.net\\lesson11\\example\\12. dependencyinjection\\dependencyinjection\\dependencyinjection\\services\\emailmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AE06BE-8121-492C-B5F0-5374D58CDE3E}|DependencyInjection\\DependencyInjection.csproj|solutionrelative:dependencyinjection\\services\\emailmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AE06BE-8121-492C-B5F0-5374D58CDE3E}|DependencyInjection\\DependencyInjection.csproj|d:\\step\\3 course\\asp.net\\lesson11\\example\\12. dependencyinjection\\dependencyinjection\\dependencyinjection\\services\\smsmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AE06BE-8121-492C-B5F0-5374D58CDE3E}|DependencyInjection\\DependencyInjection.csproj|solutionrelative:dependencyinjection\\services\\smsmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AE06BE-8121-492C-B5F0-5374D58CDE3E}|DependencyInjection\\DependencyInjection.csproj|d:\\step\\3 course\\asp.net\\lesson11\\example\\12. dependencyinjection\\dependencyinjection\\dependencyinjection\\services\\imessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AE06BE-8121-492C-B5F0-5374D58CDE3E}|DependencyInjection\\DependencyInjection.csproj|solutionrelative:dependencyinjection\\services\\imessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AE06BE-8121-492C-B5F0-5374D58CDE3E}|DependencyInjection\\DependencyInjection.csproj|d:\\step\\3 course\\asp.net\\lesson11\\example\\12. dependencyinjection\\dependencyinjection\\dependencyinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AE06BE-8121-492C-B5F0-5374D58CDE3E}|DependencyInjection\\DependencyInjection.csproj|solutionrelative:dependencyinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AE06BE-8121-492C-B5F0-5374D58CDE3E}|DependencyInjection\\DependencyInjection.csproj|d:\\step\\3 course\\asp.net\\lesson11\\example\\12. dependencyinjection\\dependencyinjection\\dependencyinjection\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29AE06BE-8121-492C-B5F0-5374D58CDE3E}|DependencyInjection\\DependencyInjection.csproj|solutionrelative:dependencyinjection\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AE06BE-8121-492C-B5F0-5374D58CDE3E}|DependencyInjection\\DependencyInjection.csproj|d:\\step\\3 course\\asp.net\\lesson11\\example\\12. dependencyinjection\\dependencyinjection\\dependencyinjection\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29AE06BE-8121-492C-B5F0-5374D58CDE3E}|DependencyInjection\\DependencyInjection.csproj|solutionrelative:dependencyinjection\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailMessageSender.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson11\\example\\12. DependencyInjection\\DependencyInjection\\DependencyInjection\\Services\\EmailMessageSender.cs",
+              "RelativeDocumentMoniker": "DependencyInjection\\Services\\EmailMessageSender.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson11\\example\\12. DependencyInjection\\DependencyInjection\\DependencyInjection\\Services\\EmailMessageSender.cs",
+              "RelativeToolTip": "DependencyInjection\\Services\\EmailMessageSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T08:35:26.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmsMessageSender.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson11\\example\\12. DependencyInjection\\DependencyInjection\\DependencyInjection\\Services\\SmsMessageSender.cs",
+              "RelativeDocumentMoniker": "DependencyInjection\\Services\\SmsMessageSender.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson11\\example\\12. DependencyInjection\\DependencyInjection\\DependencyInjection\\Services\\SmsMessageSender.cs",
+              "RelativeToolTip": "DependencyInjection\\Services\\SmsMessageSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T08:35:26.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson11\\example\\12. DependencyInjection\\DependencyInjection\\DependencyInjection\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DependencyInjection\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson11\\example\\12. DependencyInjection\\DependencyInjection\\DependencyInjection\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DependencyInjection\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T08:35:26.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMessageSender.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson11\\example\\12. DependencyInjection\\DependencyInjection\\DependencyInjection\\Services\\IMessageSender.cs",
+              "RelativeDocumentMoniker": "DependencyInjection\\Services\\IMessageSender.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson11\\example\\12. DependencyInjection\\DependencyInjection\\DependencyInjection\\Services\\IMessageSender.cs",
+              "RelativeToolTip": "DependencyInjection\\Services\\IMessageSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T08:35:26.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson11\\example\\12. DependencyInjection\\DependencyInjection\\DependencyInjection\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyInjection\\Program.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson11\\example\\12. DependencyInjection\\DependencyInjection\\DependencyInjection\\Program.cs",
+              "RelativeToolTip": "DependencyInjection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T08:35:26.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson11\\example\\12. DependencyInjection\\DependencyInjection\\DependencyInjection\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DependencyInjection\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson11\\example\\12. DependencyInjection\\DependencyInjection\\DependencyInjection\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DependencyInjection\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T08:35:26.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson11\\example\\12. DependencyInjection\\DependencyInjection\\DependencyInjection\\appsettings.json",
+              "RelativeDocumentMoniker": "DependencyInjection\\appsettings.json",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson11\\example\\12. DependencyInjection\\DependencyInjection\\DependencyInjection\\appsettings.json",
+              "RelativeToolTip": "DependencyInjection\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T08:35:26.01Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
