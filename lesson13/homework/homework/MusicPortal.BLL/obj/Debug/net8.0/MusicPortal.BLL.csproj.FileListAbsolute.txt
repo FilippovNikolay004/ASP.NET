@@ -1,0 +1,16 @@
+D:\Step\3 course\ASP.NET\lesson13\homework\homework\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.csproj.AssemblyReference.cache
+D:\Step\3 course\ASP.NET\lesson13\homework\homework\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\3 course\ASP.NET\lesson13\homework\homework\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.AssemblyInfoInputs.cache
+D:\Step\3 course\ASP.NET\lesson13\homework\homework\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.AssemblyInfo.cs
+D:\Step\3 course\ASP.NET\lesson13\homework\homework\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.csproj.CoreCompileInputs.cache
+D:\Step\3 course\ASP.NET\lesson13\homework\homework\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.sourcelink.json
+D:\Step\3 course\ASP.NET\lesson13\homework\homework\MusicPortal.BLL\bin\Debug\net8.0\MusicPortal.BLL.deps.json
+D:\Step\3 course\ASP.NET\lesson13\homework\homework\MusicPortal.BLL\bin\Debug\net8.0\MusicPortal.BLL.dll
+D:\Step\3 course\ASP.NET\lesson13\homework\homework\MusicPortal.BLL\bin\Debug\net8.0\MusicPortal.BLL.pdb
+D:\Step\3 course\ASP.NET\lesson13\homework\homework\MusicPortal.BLL\bin\Debug\net8.0\MusicPortal.DAL.dll
+D:\Step\3 course\ASP.NET\lesson13\homework\homework\MusicPortal.BLL\bin\Debug\net8.0\MusicPortal.DAL.pdb
+D:\Step\3 course\ASP.NET\lesson13\homework\homework\MusicPortal.BLL\obj\Debug\net8.0\MusicPor.4A39A387.Up2Date
+D:\Step\3 course\ASP.NET\lesson13\homework\homework\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.dll
+D:\Step\3 course\ASP.NET\lesson13\homework\homework\MusicPortal.BLL\obj\Debug\net8.0\refint\MusicPortal.BLL.dll
+D:\Step\3 course\ASP.NET\lesson13\homework\homework\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.pdb
+D:\Step\3 course\ASP.NET\lesson13\homework\homework\MusicPortal.BLL\obj\Debug\net8.0\ref\MusicPortal.BLL.dll
