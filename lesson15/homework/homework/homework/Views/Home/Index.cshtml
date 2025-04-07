@@ -1,0 +1,14 @@
+﻿@model Messages
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+@Html.AntiForgeryToken()
+<div>
+    @Html.ValidationSummary(true, "")
+    <a asp-controller="Account" asp-action="Login">Login</a>
+    <a asp-controller="Account" asp-action="Register">Registration</a>
+</div>
+

@@ -1,0 +1,31 @@
+﻿@model StudentsMVC.Models.Student
+
+<div class="row">
+    <div>
+        <form asp-action="Create">
+            <h4>Новый студент</h4>
+            <hr />
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Surname" class="control-label"></label>
+                <input asp-for="Surname" class="form-control" />
+                <span asp-validation-for="Surname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Age" class="control-label"></label>
+                <input asp-for="Age" class="form-control" />
+                <span asp-validation-for="Age" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GPA" class="control-label"></label>
+                <input asp-for="GPA" class="form-control" />
+                <span asp-validation-for="GPA" class="text-danger"></span>
+            </div>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,437 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\StudentsMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\StudentsMVC.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\accordion.css",
+      "PackagePath": "staticwebassets\\css\\base\\accordion.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\all.css",
+      "PackagePath": "staticwebassets\\css\\base\\all.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\autocomplete.css",
+      "PackagePath": "staticwebassets\\css\\base\\autocomplete.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\base.css",
+      "PackagePath": "staticwebassets\\css\\base\\base.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\button.css",
+      "PackagePath": "staticwebassets\\css\\base\\button.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\core.css",
+      "PackagePath": "staticwebassets\\css\\base\\core.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\datepicker.css",
+      "PackagePath": "staticwebassets\\css\\base\\datepicker.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\dialog.css",
+      "PackagePath": "staticwebassets\\css\\base\\dialog.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\draggable.css",
+      "PackagePath": "staticwebassets\\css\\base\\draggable.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\images\\ui-bg_flat_0_aaaaaa_40x100.png",
+      "PackagePath": "staticwebassets\\css\\base\\images\\ui-bg_flat_0_aaaaaa_40x100.png"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\images\\ui-bg_flat_75_ffffff_40x100.png",
+      "PackagePath": "staticwebassets\\css\\base\\images\\ui-bg_flat_75_ffffff_40x100.png"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\images\\ui-bg_glass_55_fbf9ee_1x400.png",
+      "PackagePath": "staticwebassets\\css\\base\\images\\ui-bg_glass_55_fbf9ee_1x400.png"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\images\\ui-bg_glass_65_ffffff_1x400.png",
+      "PackagePath": "staticwebassets\\css\\base\\images\\ui-bg_glass_65_ffffff_1x400.png"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\images\\ui-bg_glass_75_dadada_1x400.png",
+      "PackagePath": "staticwebassets\\css\\base\\images\\ui-bg_glass_75_dadada_1x400.png"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\images\\ui-bg_glass_75_e6e6e6_1x400.png",
+      "PackagePath": "staticwebassets\\css\\base\\images\\ui-bg_glass_75_e6e6e6_1x400.png"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\images\\ui-bg_glass_95_fef1ec_1x400.png",
+      "PackagePath": "staticwebassets\\css\\base\\images\\ui-bg_glass_95_fef1ec_1x400.png"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\images\\ui-bg_highlight-soft_75_cccccc_1x100.png",
+      "PackagePath": "staticwebassets\\css\\base\\images\\ui-bg_highlight-soft_75_cccccc_1x100.png"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\images\\ui-icons_222222_256x240.png",
+      "PackagePath": "staticwebassets\\css\\base\\images\\ui-icons_222222_256x240.png"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\images\\ui-icons_2e83ff_256x240.png",
+      "PackagePath": "staticwebassets\\css\\base\\images\\ui-icons_2e83ff_256x240.png"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\css\\base\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\images\\ui-icons_454545_256x240.png",
+      "PackagePath": "staticwebassets\\css\\base\\images\\ui-icons_454545_256x240.png"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\css\\base\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\css\\base\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\css\\base\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\images\\ui-icons_888888_256x240.png",
+      "PackagePath": "staticwebassets\\css\\base\\images\\ui-icons_888888_256x240.png"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\css\\base\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\images\\ui-icons_cd0a0a_256x240.png",
+      "PackagePath": "staticwebassets\\css\\base\\images\\ui-icons_cd0a0a_256x240.png"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\css\\base\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\base\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\base\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\menu.css",
+      "PackagePath": "staticwebassets\\css\\base\\menu.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\progressbar.css",
+      "PackagePath": "staticwebassets\\css\\base\\progressbar.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\resizable.css",
+      "PackagePath": "staticwebassets\\css\\base\\resizable.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\selectable.css",
+      "PackagePath": "staticwebassets\\css\\base\\selectable.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\selectmenu.css",
+      "PackagePath": "staticwebassets\\css\\base\\selectmenu.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\slider.css",
+      "PackagePath": "staticwebassets\\css\\base\\slider.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\sortable.css",
+      "PackagePath": "staticwebassets\\css\\base\\sortable.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\spinner.css",
+      "PackagePath": "staticwebassets\\css\\base\\spinner.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\tabs.css",
+      "PackagePath": "staticwebassets\\css\\base\\tabs.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\theme.css",
+      "PackagePath": "staticwebassets\\css\\base\\theme.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\base\\tooltip.css",
+      "PackagePath": "staticwebassets\\css\\base\\tooltip.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\js\\jquery-ui-1.12.1.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.12.1.js"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\js\\jquery-ui-1.12.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.12.1.min.js"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Dialog boxes and CRUD-interface\\StudentsMVC\\StudentsMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.StudentsMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.StudentsMVC.props",
+      "PackagePath": "build\\StudentsMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.StudentsMVC.props",
+      "PackagePath": "buildMultiTargeting\\StudentsMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.StudentsMVC.props",
+      "PackagePath": "buildTransitive\\StudentsMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

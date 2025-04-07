@@ -1,0 +1,39 @@
+﻿@model StudentsMVC.Models.Student
+
+<h3>Вы действительно желаете удалить студента?</h3>
+<div>
+    <h4>Удаление</h4>
+    <hr />
+    <dl class="row">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Surname)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Surname)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Age)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Age)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.GPA)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.GPA)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Удалить" class="btn btn-danger" /> |
+        <a asp-action="Index">На главную страницу</a>
+    </form>
+</div>

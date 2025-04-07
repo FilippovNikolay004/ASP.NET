@@ -1,0 +1,101 @@
+﻿@model Messages
+
+
+@section Scripts {
+    <script>
+        $(document).ready(function() {
+            // Загрузка писем
+            GetAllLetters();
+
+            // Создание строки для таблицы
+            let row = function(message) {
+                return "<tr data-rowid='>" + message.Id + "'>" +
+                    "<td>" + message.Message + "</td>" +
+                    "<td>" + message.MessageDate + "</td>" +
+                    "<td>" + message.UserId + "</td>" +
+                "</tr>"
+            };
+
+            function GetAllLetters() {
+                $.ajax({
+                    url: '@Url.Action("GetMessages", "Account")',
+                    type: "GET",
+                    contentType: false,
+                    processData: false,
+                    success: function (response) {
+                        let rows = "";
+                        let messages = JSON.parse(response);
+                        $.each(messages, function (index, message) {
+                            rows += row(message);
+                        })
+                        $("#student-list").html(rows);
+                    },
+                    error: function(x, y, z) {
+                        alert(x + '\n' + y + '\n' + z);
+                    }
+                });
+            }
+
+            // Добавление
+            $("#btn-add").on("click", function() {
+                let formData = new FormData();
+
+                formData.append("Message", $("#Message").val());
+                formData.append("MessageDate", $("#MessageDate").val());
+                formData.append("UserId", $("#UserId").val());
+
+                $.ajax({
+                    url: '@Url.Action("AddMessage", "Home")',
+                    type: "POST",
+                    data: formData,
+                    contentType: false,
+                    processData: false,
+                    success: function (response) {
+                        alert(response);
+                        $("#Message").val("");
+                        GetAllLetters();
+                    },
+                    error: function(x, y, z) {
+                        alert(x + '\n' + y + '\n' + z);
+                    }
+                });
+            });
+        });
+    </script>
+}
+
+
+<div style="padding-top:30px">
+    <h3>Список писем</h3>
+    <div>
+        <div>
+            @using (Html.BeginForm("Logout", "Home", FormMethod.Get)) {
+                <div>
+                    <input type="submit" value="Выйти" />
+                </div>
+            }
+        </div>
+        <form>
+            <div class="form-group">
+                <label class="control-label"></label>
+                <input id="Message" class="form-control" />
+                <span asp-validation-for="Message" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <a id="btn-add" class="btn btn-primary" href="javascript:void(0)">Отправить!</a>
+            </div>
+        </form>
+    </div>
+    <table class="table">
+        <thead>
+            <tr>
+                <td><p>Сообщение</p></td>
+                <td><p>Дата</p></td>
+                <td><p>Пользователь</p></td>
+            </tr>
+        </thead>
+        <tbody id="student-list">
+
+        </tbody>
+    </table>
+</div>
