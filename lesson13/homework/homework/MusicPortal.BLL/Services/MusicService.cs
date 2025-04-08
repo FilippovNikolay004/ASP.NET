@@ -11,7 +11,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace MusicPortal.BLL.Services {
-    class MusicService : IMusicService {
+    public class MusicService : IMusicService {
         IUnitOfWork Database { get; set; }
 
         public MusicService(IUnitOfWork uow) {

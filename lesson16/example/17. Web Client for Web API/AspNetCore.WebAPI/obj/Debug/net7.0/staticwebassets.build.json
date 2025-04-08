@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "p9LIxuXOgES3ZZ5KYyXv0OPwu+E3J5BYqeOJgkbdfD0=",
+  "Source": "AspNetCore.WebAPI",
+  "BasePath": "_content/AspNetCore.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AspNetCore.WebAPI\\wwwroot",
+      "Source": "AspNetCore.WebAPI",
+      "ContentRoot": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Web Client for Web API\\AspNetCore.WebAPI\\wwwroot\\",
+      "BasePath": "_content/AspNetCore.WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Web Client for Web API\\AspNetCore.WebAPI\\wwwroot\\Index.html",
+      "SourceId": "AspNetCore.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\17. Web Client for Web API\\AspNetCore.WebAPI\\wwwroot\\",
+      "BasePath": "_content/AspNetCore.WebAPI",
+      "RelativePath": "Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    }
+  ]
+}

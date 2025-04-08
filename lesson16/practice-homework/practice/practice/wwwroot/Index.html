@@ -1,0 +1,195 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Список преподавателей</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.0/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js"></script>
+</head>
+<body>
+    <h2>Список преподавателей</h2>
+    <form name="teacherForm">
+        <input type="hidden" name="Id" value="0" />
+        <div class="form-group col-md-5">
+            <label for="firstName">Имя:</label>
+            <input class="form-control" name="firstName" />
+        </div>
+        <div class="form-group col-md-5">
+            <label for="lastName">Фамилия:</label>
+            <input class="form-control" name="lastName" />
+        </div>
+        <div class="form-group col-md-5">
+            <label for="age">Возраст:</label>
+            <input class="form-control" name="age" />
+        </div>
+        <div class="panel-body">
+            <a id="submit" class="btn btn-primary" href="javascript:void(0)">Сохранить</a>
+            <a id="reset" class="btn btn-primary" href="javascript:void(0)">Сбросить</a>
+        </div>
+    </form>
+    <table class="table table-condensed table-striped col-md-6">
+        <thead><tr><th>Id</th><th>Имя</th><th>Фамилия</th><th>Возраст</th><th></th></tr></thead>
+        <tbody></tbody>
+    </table>
+
+    <script>
+
+        // Загрузка преподавателей
+        GetTeachers();
+
+        // Получение всех преподавателей
+        function GetTeachers() {
+            $.ajax({
+                url: 'https://localhost:7227/api/Teacher',
+                method: "GET",
+                contentType: "application/json",
+                success: function (teachers) {
+                    let rows = "";
+                    $.each(teachers, function (index, student) {
+                        // добавляем полученные элементы в таблицу
+                        rows += row(student);
+                    })
+                    $("table tbody").append(rows);
+                },
+                error: function (x) {
+                    alert(x.status);
+                }
+            });
+        }
+
+        // Получение одного преподавателя
+        function GetTeacher(id) {
+            $.ajax({
+                url: 'https://localhost:7227/api/Teacher/' + id,
+                method: 'GET',
+                contentType: "application/json",
+                success: function (teacher) {
+                    console.log(teacher);
+
+                    let form = document.forms["teacherForm"];
+
+                    form.elements["Id"].value = teacher.id;
+                    form.elements["firstName"].value = teacher.firstName;
+                    form.elements["lastName"].value = teacher.lastName;
+                    form.elements["age"].value = teacher.age;
+                },
+                error: function (x) {
+                    alert(x.status);
+                }
+            });
+        }
+
+        // Добавление преподавателей
+        function CreateTeacher(teacherFisrtName, teacherLastName, teacherAge) {
+            $.ajax({
+                url: "https://localhost:7227/api/Teacher",
+                contentType: "application/json",
+                method: "POST",
+                data: JSON.stringify({
+                    firstName: teacherFisrtName,
+                    lastName: teacherLastName,
+                    age: teacherAge
+                }),
+                success: function (teacher) {
+                    $("table tbody").append(row(teacher));
+                    let form = document.forms["teacherForm"];
+                    form.reset();
+                    form.elements["Id"].value = 0;
+                },
+                error: function (x) {
+                    alert(x.status);
+                }
+            })
+        }
+
+        // Изменение преподавателя
+        function EditTeacher(teacherId, teacherFisrtName, teacherLastName, teacherAge) {
+            let request = JSON.stringify({
+                id: teacherId,
+                firstName: teacherFisrtName,
+                lastName: teacherLastName,
+                age: teacherAge
+            });
+            $.ajax({
+                url: "https://localhost:7227/api/Teacher",
+                contentType: "application/json",
+                method: "PUT",
+                data: request,
+                success: function (teacher) {
+                    $("tr[data-rowid='" + teacher.id + "']").replaceWith(row(teacher));
+                    let form = document.forms["teacherForm"];
+                    form.reset();
+                    form.elements["Id"].value = 0;
+                },
+                error: function (x) {
+                    alert(x.status);
+                }
+            })
+        }
+
+        // Удаление преподавателя
+        function DeleteTeacher(id) {
+            if (!confirm("Вы действительно желаете удалить студента?"))
+                return;
+            $.ajax({
+                url: "https://localhost:7227/api/Teacher/" + id,
+                contentType: "application/json",
+                method: "DELETE",
+                success: function (teacher) {
+                    $("tr[data-rowid='" + teacher.id + "']").remove();
+                },
+                error: function (x, y, z) {
+                    alert(x.status + '\n' + y + '\n' + z);
+                }
+            })
+        }
+
+        // Создание строки для таблицы
+        let row = function (teacher) {
+            return "<tr data-rowid='" + teacher.id + "'><td>" + teacher.id + "</td>" +
+                "<td>" + teacher.firstName + "</td> <td>" + teacher.lastName + "</td>" +
+                "<td>" + teacher.age + "</td>" +
+                "<td><a href='javascript: void (0)' class='editLink' data-id='" + teacher.id + "'>Изменить</a> | " +
+                "<a href='javascript: void (0)' class='removeLink' data-id='" + teacher.id + "'>Удалить</a></td></tr>";
+        };
+
+        // Сброс значений формы
+        $("#reset").click(function (e) {
+            e.preventDefault();
+            let form = document.forms["teacherForm"];
+            form.reset();
+            form.elements["Id"].value = 0;
+        });
+
+        // Отправка формы
+        $("#submit").click(function (e) {
+            e.preventDefault();
+            let form = document.forms["teacherForm"];
+
+            let id = form.elements["Id"].value;
+            let firstName = form.elements["firstName"].value;
+            let lastName = form.elements["lastName"].value;
+            let age = form.elements["age"].value;
+
+            if (id == 0)
+                CreateTeacher(firstName, lastName, age);
+            else
+                EditTeacher(id, firstName, lastName, age);
+        });
+
+        // Нажимаем на ссылку Изменить
+        $("body").on("click", ".editLink", function () {
+            let id = $(this).data("id");
+            GetTeacher(id);
+        });
+
+        // Нажимаем на ссылку Удалить
+        $("body").on("click", ".removeLink", function () {
+            let id = $(this).data("id");
+            DeleteTeacher(id);
+        });
+
+    </script>
+</body>
+</html>

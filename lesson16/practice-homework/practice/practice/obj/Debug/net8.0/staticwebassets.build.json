@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "mbBI+++wmDmmnzy2vJq8UxMuwx4sQDUIBVRjsenxh/8=",
+  "Source": "practice",
+  "BasePath": "_content/practice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "practice\\wwwroot",
+      "Source": "practice",
+      "ContentRoot": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice\\practice\\practice\\wwwroot\\",
+      "BasePath": "_content/practice",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice\\practice\\practice\\wwwroot\\Index.html",
+      "SourceId": "practice",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice\\practice\\practice\\wwwroot\\",
+      "BasePath": "_content/practice",
+      "RelativePath": "Index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dhk15tslt7",
+      "Integrity": "DynQ0DJv4puTa1sJrO8imJH6HkkDVzRTb9o4l4iVXQg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Index.dhk15tslt7.html",
+      "AssetFile": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice\\practice\\practice\\wwwroot\\Index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7724"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DynQ0DJv4puTa1sJrO8imJH6HkkDVzRTb9o4l4iVXQg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 17:22:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dhk15tslt7"
+        },
+        {
+          "Name": "label",
+          "Value": "Index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DynQ0DJv4puTa1sJrO8imJH6HkkDVzRTb9o4l4iVXQg="
+        }
+      ]
+    },
+    {
+      "Route": "Index.html",
+      "AssetFile": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice\\practice\\practice\\wwwroot\\Index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7724"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DynQ0DJv4puTa1sJrO8imJH6HkkDVzRTb9o4l4iVXQg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 17:22:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DynQ0DJv4puTa1sJrO8imJH6HkkDVzRTb9o4l4iVXQg="
+        }
+      ]
+    }
+  ]
+}

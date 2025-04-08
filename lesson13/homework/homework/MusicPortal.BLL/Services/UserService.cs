@@ -11,7 +11,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace MusicPortal.BLL.Services {
-    class UserService : IUserService {
+    public class UserService : IUserService {
         IUnitOfWork Database { get; set; }
 
         public UserService(IUnitOfWork uow) {
@@ -49,10 +49,25 @@ namespace MusicPortal.BLL.Services {
             await Database.Users.Delete(id);
             await Database.Save();
         }
-        public async Task<UserDTO> GetUser(int id) {
+        public async Task<UserDTO> GetUserId(int id) {
             var user = await Database.Users.GetById(id);
             if (user == null)
-                throw new ValidationException("Genre not found");
+                throw new ValidationException("User not found");
+
+            return new UserDTO {
+                Id = user.Id,
+                Login = user.Login,
+                Password = user.Password,
+                Email = user.Email,
+                NumberPhone = user.NumberPhone,
+                DateOfBirthday = user.DateOfBirthday,
+                Status = (DTO.UserStatus)user.Status
+            };
+        }
+        public async Task<UserDTO> GetUserName(string login) {
+            var user = await Database.Users.GetByName(login);
+            if (user == null)
+                throw new ValidationException("User not found");
 
             return new UserDTO {
                 Id = user.Id,

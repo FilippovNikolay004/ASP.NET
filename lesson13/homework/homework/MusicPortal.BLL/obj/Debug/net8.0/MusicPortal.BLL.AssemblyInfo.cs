@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MusicPortal.BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73673068ee94a4e0adaea009f4c93daf7eee43ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+175b6812f4e3af14c073f668bcc6b10bb1e0be22")]
 [assembly: System.Reflection.AssemblyProductAttribute("MusicPortal.BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MusicPortal.BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

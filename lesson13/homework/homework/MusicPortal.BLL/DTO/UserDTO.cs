@@ -25,7 +25,6 @@ namespace MusicPortal.BLL.DTO {
         [RegularExpression(@"^[^@\s]+@[^@\s]+\.[^@\s]+$", ErrorMessage = "Некорректный email")]
         public string Email { get; set; } = string.Empty;
 
-
         [Required(ErrorMessage = "Поле должно быть установлено.")]
         public string NumberPhone { get; set; } = string.Empty;
 

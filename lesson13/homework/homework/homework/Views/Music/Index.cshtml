@@ -3,13 +3,20 @@
 @{
     ViewData["Title"] = "Music";
     Layout = "~/Views/Shared/_Layout.cshtml";
+    var currentUser = ViewBag.CurrentUser as MusicPortal.BLL.DTO.UserDTO;
 }
 
 <h1>Music</h1>
 
 <p>
-    <a asp-controller="Music" asp-action="Create" class="btn btn-primary">Create New</a>
+    <a asp-controller="Account" asp-action="Login">Login</a>
+    <a asp-controller="Account" asp-action="Register">Registration</a>
 </p>
+@if (currentUser != null && currentUser.Status == MusicPortal.BLL.DTO.UserStatus.Active) {
+    <p>
+        <a asp-controller="Music" asp-action="Create">Добавить музыку</a>
+    </p>
+}
 <table class="table-condensed" width="100%">
     <tr>
         <th>

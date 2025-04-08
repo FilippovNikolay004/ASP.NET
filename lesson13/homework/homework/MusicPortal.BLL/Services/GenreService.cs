@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace MusicPortal.BLL.Services {
-    class GenreService : IGenreService {
+    public class GenreService : IGenreService {
         IUnitOfWork Database { get; set; }
 
         public GenreService(IUnitOfWork uow) {

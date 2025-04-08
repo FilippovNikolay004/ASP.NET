@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice\\practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF07E9A-97A6-43E7-8D1D-BE70BDB3C263}|practice\\practice.csproj|d:\\step\\3 course\\asp.net\\lesson16\\practice\\practice\\practice\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF07E9A-97A6-43E7-8D1D-BE70BDB3C263}|practice\\practice.csproj|solutionrelative:practice\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF07E9A-97A6-43E7-8D1D-BE70BDB3C263}|practice\\practice.csproj|d:\\step\\3 course\\asp.net\\lesson16\\practice\\practice\\practice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CF07E9A-97A6-43E7-8D1D-BE70BDB3C263}|practice\\practice.csproj|solutionrelative:practice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.html",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice\\practice\\practice\\wwwroot\\Index.html",
+              "RelativeDocumentMoniker": "practice\\wwwroot\\Index.html",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice\\practice\\practice\\wwwroot\\Index.html",
+              "RelativeToolTip": "practice\\wwwroot\\Index.html",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAG0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-08T13:57:07.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice\\practice\\practice\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "practice\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice\\practice\\practice\\Properties\\launchSettings.json",
+              "RelativeToolTip": "practice\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T13:53:25.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

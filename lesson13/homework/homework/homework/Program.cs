@@ -1,6 +1,20 @@
+using Microsoft.EntityFrameworkCore;
+using MusicPortal.BLL.Interfaces;
+using MusicPortal.BLL.Services;
+using MusicPortal.BLL.Infrastructure;
+
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// Получаем строку подключения из файла конфигурации
+string? connection = builder.Configuration.GetConnectionString("DefaultConnection");
+builder.Services.AddMusicPortalContext(connection);
+builder.Services.AddUnitOfWorkService();
+builder.Services.AddTransient<IGenreService, GenreService>();
+builder.Services.AddTransient<IMusicService, MusicService>();
+builder.Services.AddTransient<IUserService, UserService>();
+
+// Добавляем сервисы MVC
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MusicPortal.DAL.Entities;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
@@ -9,8 +10,9 @@ namespace MusicPortal.BLL.DTO {
     public class AdministratorDTO {
         public int Id { get; set; }
 
+
         // Navigation properties
-        public int UserId { get; set; }
-        public string User { get; set; } = string.Empty;
+        [ForeignKey("UserId")]
+        public User? User { get; set; } = new User();
     }
 }

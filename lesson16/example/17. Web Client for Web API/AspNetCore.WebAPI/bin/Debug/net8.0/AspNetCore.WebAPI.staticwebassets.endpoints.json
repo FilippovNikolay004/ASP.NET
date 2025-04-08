@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "Index.html",
+      "AssetFile": "Index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W1Ean9wo9N0pbJZ9uPmtRK/gS3zQvIGZ/vYmLulUJt8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 24 Jan 2024 18:53:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W1Ean9wo9N0pbJZ9uPmtRK/gS3zQvIGZ/vYmLulUJt8="
+        }
+      ]
+    },
+    {
+      "Route": "Index.j20k4s264d.html",
+      "AssetFile": "Index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W1Ean9wo9N0pbJZ9uPmtRK/gS3zQvIGZ/vYmLulUJt8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 24 Jan 2024 18:53:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j20k4s264d"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W1Ean9wo9N0pbJZ9uPmtRK/gS3zQvIGZ/vYmLulUJt8="
+        },
+        {
+          "Name": "label",
+          "Value": "Index.html"
+        }
+      ]
+    }
+  ]
+}

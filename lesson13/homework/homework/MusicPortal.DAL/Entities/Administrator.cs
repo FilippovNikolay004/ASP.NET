@@ -9,8 +9,9 @@ namespace MusicPortal.DAL.Entities {
     public class Administrator {
         public int Id { get; set; }
 
+
         // Navigation properties
         [ForeignKey("UserId")]
-        public User User { get; set; } = new User();
+        public User? User { get; set; } = new User();
     }
 }

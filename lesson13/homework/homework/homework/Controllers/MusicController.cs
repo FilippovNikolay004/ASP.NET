@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using MusicPortal.BLL.DTO;
 using MusicPortal.BLL.Interfaces;
 
 namespace homework.Controllers
@@ -16,6 +17,15 @@ namespace homework.Controllers
 
         // GET: Music
         public async Task<IActionResult> Index() {
+            UserDTO? currentUser = null;
+
+            if (User.Identity != null && User.Identity.IsAuthenticated) {
+                var userId = int.Parse(User.FindFirst("UserId").Value);
+                currentUser = await _userService.GetUserId(userId); 
+            }
+
+            ViewBag.CurrentUser = currentUser;
+
             return View(await _musicService.GetAllMusics());
         }
     }

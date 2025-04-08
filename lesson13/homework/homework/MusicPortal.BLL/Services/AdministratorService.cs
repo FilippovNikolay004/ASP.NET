@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace MusicPortal.BLL.Services {
-    class AdministratorService {
+    public class AdministratorService {
         IUnitOfWork Database { get; set; }
 
         public AdministratorService(IUnitOfWork uow) {
