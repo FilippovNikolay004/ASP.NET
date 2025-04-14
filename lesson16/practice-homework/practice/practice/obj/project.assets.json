@@ -3250,11 +3250,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice\\practice\\practice\\practice.csproj",
+      "projectUniqueName": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice-homework\\practice\\practice\\practice.csproj",
       "projectName": "practice",
-      "projectPath": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice\\practice\\practice\\practice.csproj",
+      "projectPath": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice-homework\\practice\\practice\\practice.csproj",
       "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
-      "outputPath": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice\\practice\\practice\\obj\\",
+      "outputPath": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice-homework\\practice\\practice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Nikolay Filippov\\Program files\\Microsoft Visual Studio\\Shared\\NuGetPackages"

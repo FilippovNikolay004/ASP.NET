@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice\\practice\\",
+  "WorkspaceRootPath": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice-homework\\practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CF07E9A-97A6-43E7-8D1D-BE70BDB3C263}|practice\\practice.csproj|d:\\step\\3 course\\asp.net\\lesson16\\practice\\practice\\practice\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4CF07E9A-97A6-43E7-8D1D-BE70BDB3C263}|practice\\practice.csproj|d:\\step\\3 course\\asp.net\\lesson16\\practice-homework\\practice\\practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF07E9A-97A6-43E7-8D1D-BE70BDB3C263}|practice\\practice.csproj|solutionrelative:practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF07E9A-97A6-43E7-8D1D-BE70BDB3C263}|practice\\practice.csproj|d:\\step\\3 course\\asp.net\\lesson16\\practice-homework\\practice\\practice\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4CF07E9A-97A6-43E7-8D1D-BE70BDB3C263}|practice\\practice.csproj|solutionrelative:practice\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF07E9A-97A6-43E7-8D1D-BE70BDB3C263}|practice\\practice.csproj|d:\\step\\3 course\\asp.net\\lesson16\\practice\\practice\\practice\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CF07E9A-97A6-43E7-8D1D-BE70BDB3C263}|practice\\practice.csproj|d:\\step\\3 course\\asp.net\\lesson16\\practice-homework\\practice\\practice\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CF07E9A-97A6-43E7-8D1D-BE70BDB3C263}|practice\\practice.csproj|solutionrelative:practice\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,24 +34,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TeacherController.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice\\practice\\practice\\Controllers\\TeacherController.cs",
-              "RelativeDocumentMoniker": "practice\\Controllers\\TeacherController.cs",
-              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice\\practice\\practice\\Controllers\\TeacherController.cs",
-              "RelativeToolTip": "practice\\Controllers\\TeacherController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice-homework\\practice\\practice\\Program.cs",
+              "RelativeDocumentMoniker": "practice\\Program.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice-homework\\practice\\practice\\Program.cs",
+              "RelativeToolTip": "practice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T17:23:25.245Z",
+              "WhenOpened": "2025-04-09T09:18:12.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice-homework\\practice\\practice\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "practice\\Controllers\\TeacherController.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice-homework\\practice\\practice\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "practice\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:23:25.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.html",
-              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice\\practice\\practice\\wwwroot\\Index.html",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice-homework\\practice\\practice\\wwwroot\\Index.html",
               "RelativeDocumentMoniker": "practice\\wwwroot\\Index.html",
-              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice\\practice\\practice\\wwwroot\\Index.html",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice-homework\\practice\\practice\\wwwroot\\Index.html",
               "RelativeToolTip": "practice\\wwwroot\\Index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",

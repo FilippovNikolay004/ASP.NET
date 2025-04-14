@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Step\\3 course\\ASP.NET\\lesson13\\homework\\homework\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49DD78DC-DA2C-4291-897B-A5800FDA24D9}|homework\\homework.csproj|d:\\step\\3 course\\asp.net\\lesson13\\homework\\homework\\homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DD78DC-DA2C-4291-897B-A5800FDA24D9}|homework\\homework.csproj|solutionrelative:homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56212EEA-5DAA-4A67-9F03-8EF751B45805}|MusicPortal.BLL\\MusicPortal.BLL.csproj|d:\\step\\3 course\\asp.net\\lesson13\\homework\\homework\\musicportal.bll\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56212EEA-5DAA-4A67-9F03-8EF751B45805}|MusicPortal.BLL\\MusicPortal.BLL.csproj|solutionrelative:musicportal.bll\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56212EEA-5DAA-4A67-9F03-8EF751B45805}|MusicPortal.BLL\\MusicPortal.BLL.csproj|d:\\step\\3 course\\asp.net\\lesson13\\homework\\homework\\musicportal.bll\\dto\\musicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56212EEA-5DAA-4A67-9F03-8EF751B45805}|MusicPortal.BLL\\MusicPortal.BLL.csproj|solutionrelative:musicportal.bll\\dto\\musicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56212EEA-5DAA-4A67-9F03-8EF751B45805}|MusicPortal.BLL\\MusicPortal.BLL.csproj|d:\\step\\3 course\\asp.net\\lesson13\\homework\\homework\\musicportal.bll\\dto\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56212EEA-5DAA-4A67-9F03-8EF751B45805}|MusicPortal.BLL\\MusicPortal.BLL.csproj|solutionrelative:musicportal.bll\\dto\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56212EEA-5DAA-4A67-9F03-8EF751B45805}|MusicPortal.BLL\\MusicPortal.BLL.csproj|d:\\step\\3 course\\asp.net\\lesson13\\homework\\homework\\musicportal.bll\\dto\\administratordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56212EEA-5DAA-4A67-9F03-8EF751B45805}|MusicPortal.BLL\\MusicPortal.BLL.csproj|solutionrelative:musicportal.bll\\dto\\administratordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628FD461-7014-4C75-B15B-484370131A91}|MusicPortal.DAL\\MusicPortal.DAL.csproj|d:\\step\\3 course\\asp.net\\lesson13\\homework\\homework\\musicportal.dal\\entities\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{628FD461-7014-4C75-B15B-484370131A91}|MusicPortal.DAL\\MusicPortal.DAL.csproj|solutionrelative:musicportal.dal\\entities\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +43,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson13\\homework\\homework\\homework\\Program.cs",
+              "RelativeDocumentMoniker": "homework\\Program.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson13\\homework\\homework\\homework\\Program.cs",
+              "RelativeToolTip": "homework\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:46:57.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson13\\homework\\homework\\MusicPortal.BLL\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "MusicPortal.BLL\\DTO\\UserDTO.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson13\\homework\\homework\\MusicPortal.BLL\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "MusicPortal.BLL\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:46:03.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MusicDTO.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson13\\homework\\homework\\MusicPortal.BLL\\DTO\\MusicDTO.cs",
+              "RelativeDocumentMoniker": "MusicPortal.BLL\\DTO\\MusicDTO.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson13\\homework\\homework\\MusicPortal.BLL\\DTO\\MusicDTO.cs",
+              "RelativeToolTip": "MusicPortal.BLL\\DTO\\MusicDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:46:01.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenreDTO.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson13\\homework\\homework\\MusicPortal.BLL\\DTO\\GenreDTO.cs",
+              "RelativeDocumentMoniker": "MusicPortal.BLL\\DTO\\GenreDTO.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson13\\homework\\homework\\MusicPortal.BLL\\DTO\\GenreDTO.cs",
+              "RelativeToolTip": "MusicPortal.BLL\\DTO\\GenreDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:46:00.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdministratorDTO.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson13\\homework\\homework\\MusicPortal.BLL\\DTO\\AdministratorDTO.cs",
+              "RelativeDocumentMoniker": "MusicPortal.BLL\\DTO\\AdministratorDTO.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson13\\homework\\homework\\MusicPortal.BLL\\DTO\\AdministratorDTO.cs",
+              "RelativeToolTip": "MusicPortal.BLL\\DTO\\AdministratorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:45:56.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Administrator.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson13\\homework\\homework\\MusicPortal.DAL\\Entities\\Administrator.cs",
+              "RelativeDocumentMoniker": "MusicPortal.DAL\\Entities\\Administrator.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson13\\homework\\homework\\MusicPortal.DAL\\Entities\\Administrator.cs",
+              "RelativeToolTip": "MusicPortal.DAL\\Entities\\Administrator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:45:55.28Z",
+              "EditorCaption": ""
             }
           ]
         }

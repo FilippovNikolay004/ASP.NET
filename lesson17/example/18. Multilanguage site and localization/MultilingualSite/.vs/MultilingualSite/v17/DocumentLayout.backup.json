@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Step\\3 course\\ASP.NET\\lesson17\\example\\18. Multilanguage site and localization\\MultilingualSite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|d:\\step\\3 course\\asp.net\\lesson17\\example\\18. multilanguage site and localization\\multilingualsite\\multilingualsite\\resources\\resource.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|solutionrelative:multilingualsite\\resources\\resource.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|d:\\step\\3 course\\asp.net\\lesson17\\example\\18. multilanguage site and localization\\multilingualsite\\multilingualsite\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|solutionrelative:multilingualsite\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|d:\\step\\3 course\\asp.net\\lesson17\\example\\18. multilanguage site and localization\\multilingualsite\\multilingualsite\\filters\\cultureattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|solutionrelative:multilingualsite\\filters\\cultureattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|d:\\step\\3 course\\asp.net\\lesson17\\example\\18. multilanguage site and localization\\multilingualsite\\multilingualsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|solutionrelative:multilingualsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Resource.resx",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson17\\example\\18. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Resources\\Resource.resx",
+              "RelativeDocumentMoniker": "MultilingualSite\\Resources\\Resource.resx",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson17\\example\\18. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Resources\\Resource.resx",
+              "RelativeToolTip": "MultilingualSite\\Resources\\Resource.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-10T09:42:32.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClubController.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson17\\example\\18. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Controllers\\ClubController.cs",
+              "RelativeDocumentMoniker": "MultilingualSite\\Controllers\\ClubController.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson17\\example\\18. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Controllers\\ClubController.cs",
+              "RelativeToolTip": "MultilingualSite\\Controllers\\ClubController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC4AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:42:20.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CultureAttribute.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson17\\example\\18. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Filters\\CultureAttribute.cs",
+              "RelativeDocumentMoniker": "MultilingualSite\\Filters\\CultureAttribute.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson17\\example\\18. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Filters\\CultureAttribute.cs",
+              "RelativeToolTip": "MultilingualSite\\Filters\\CultureAttribute.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:42:11.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson17\\example\\18. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MultilingualSite\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson17\\example\\18. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MultilingualSite\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T09:41:05.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

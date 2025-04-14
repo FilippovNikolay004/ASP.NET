@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4+ix6ZDzQD4=",
+  "dgSpecHash": "8qUKNHkLKds=",
   "success": true,
-  "projectFilePath": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice\\practice\\practice\\practice.csproj",
+  "projectFilePath": "D:\\Step\\3 course\\ASP.NET\\lesson16\\practice-homework\\practice\\practice\\practice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\filip\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\filip\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
