@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "1nOSU/D84yMtt8YKnPMiRi5jQLYA8rllGWSs+11FuDc=",
+  "Source": "AspNetCore.WebAPI",
+  "BasePath": "_content/AspNetCore.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AspNetCore.WebAPI\\wwwroot",
+      "Source": "AspNetCore.WebAPI",
+      "ContentRoot": "C:\\Users\\krisc\\OneDrive\\Desktop\\21. CORS\\Web Client for Web API\\AspNetCore.WebAPI\\wwwroot\\",
+      "BasePath": "_content/AspNetCore.WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\krisc\\OneDrive\\Desktop\\21. CORS\\Web Client for Web API\\AspNetCore.WebAPI\\wwwroot\\Index.html",
+      "SourceId": "AspNetCore.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\krisc\\OneDrive\\Desktop\\21. CORS\\Web Client for Web API\\AspNetCore.WebAPI\\wwwroot\\",
+      "BasePath": "_content/AspNetCore.WebAPI",
+      "RelativePath": "Index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aglogb2vlh",
+      "Integrity": "mn6RCMJBE8ko0GVpkStSevQ9ziFhkEiCTOjhSdG0sl8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Index.aglogb2vlh.html",
+      "AssetFile": "C:\\Users\\krisc\\OneDrive\\Desktop\\21. CORS\\Web Client for Web API\\AspNetCore.WebAPI\\wwwroot\\Index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7982"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mn6RCMJBE8ko0GVpkStSevQ9ziFhkEiCTOjhSdG0sl8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 05:42:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aglogb2vlh"
+        },
+        {
+          "Name": "label",
+          "Value": "Index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mn6RCMJBE8ko0GVpkStSevQ9ziFhkEiCTOjhSdG0sl8="
+        }
+      ]
+    },
+    {
+      "Route": "Index.html",
+      "AssetFile": "C:\\Users\\krisc\\OneDrive\\Desktop\\21. CORS\\Web Client for Web API\\AspNetCore.WebAPI\\wwwroot\\Index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7982"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mn6RCMJBE8ko0GVpkStSevQ9ziFhkEiCTOjhSdG0sl8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 05:42:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mn6RCMJBE8ko0GVpkStSevQ9ziFhkEiCTOjhSdG0sl8="
+        }
+      ]
+    }
+  ]
+}

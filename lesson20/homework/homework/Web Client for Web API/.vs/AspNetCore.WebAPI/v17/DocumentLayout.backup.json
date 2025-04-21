@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Step\\3 course\\ASP.NET\\lesson20\\homework\\homework\\Web Client for Web API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0351E8-0DF2-4930-993B-95014EFA11CA}|AspNetCore.WebAPI\\AspNetCore.WebAPI.csproj|d:\\step\\3 course\\asp.net\\lesson20\\homework\\homework\\web client for web api\\aspnetcore.webapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C0351E8-0DF2-4930-993B-95014EFA11CA}|AspNetCore.WebAPI\\AspNetCore.WebAPI.csproj|solutionrelative:aspnetcore.webapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.html",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson20\\homework\\homework\\Web Client for Web API\\AspNetCore.WebAPI\\wwwroot\\Index.html",
+              "RelativeDocumentMoniker": "AspNetCore.WebAPI\\wwwroot\\Index.html",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson20\\homework\\homework\\Web Client for Web API\\AspNetCore.WebAPI\\wwwroot\\Index.html",
+              "RelativeToolTip": "AspNetCore.WebAPI\\wwwroot\\Index.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-21T09:29:55.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

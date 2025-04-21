@@ -10,6 +10,6 @@ namespace Soccer.DAL.Interfaces
         Task<T> Get(string name);
         Task Create(T item);
         void Update(T item);
-        Task Delete(int id);
+        Task Delete(int id);        
     }
 }

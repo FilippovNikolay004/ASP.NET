@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krisc\\OneDrive\\Desktop\\21. CORS\\Web Service API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0351E8-0DF2-4930-993B-95014EFA11CA}|AspNetCore.WebAPI\\AspNetCore.WebAPI.csproj|c:\\users\\krisc\\onedrive\\desktop\\21. cors\\web service api\\aspnetcore.webapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0351E8-0DF2-4930-993B-95014EFA11CA}|AspNetCore.WebAPI\\AspNetCore.WebAPI.csproj|solutionrelative:aspnetcore.webapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0351E8-0DF2-4930-993B-95014EFA11CA}|AspNetCore.WebAPI\\AspNetCore.WebAPI.csproj|c:\\users\\krisc\\onedrive\\desktop\\21. cors\\web service api\\aspnetcore.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C0351E8-0DF2-4930-993B-95014EFA11CA}|AspNetCore.WebAPI\\AspNetCore.WebAPI.csproj|solutionrelative:aspnetcore.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0351E8-0DF2-4930-993B-95014EFA11CA}|AspNetCore.WebAPI\\AspNetCore.WebAPI.csproj|c:\\users\\krisc\\onedrive\\desktop\\21. cors\\web service api\\aspnetcore.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0351E8-0DF2-4930-993B-95014EFA11CA}|AspNetCore.WebAPI\\AspNetCore.WebAPI.csproj|solutionrelative:aspnetcore.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0351E8-0DF2-4930-993B-95014EFA11CA}|AspNetCore.WebAPI\\AspNetCore.WebAPI.csproj|c:\\users\\krisc\\onedrive\\desktop\\21. cors\\web service api\\aspnetcore.webapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0351E8-0DF2-4930-993B-95014EFA11CA}|AspNetCore.WebAPI\\AspNetCore.WebAPI.csproj|solutionrelative:aspnetcore.webapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0351E8-0DF2-4930-993B-95014EFA11CA}|AspNetCore.WebAPI\\AspNetCore.WebAPI.csproj|c:\\users\\krisc\\onedrive\\desktop\\21. cors\\web service api\\aspnetcore.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C0351E8-0DF2-4930-993B-95014EFA11CA}|AspNetCore.WebAPI\\AspNetCore.WebAPI.csproj|solutionrelative:aspnetcore.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0351E8-0DF2-4930-993B-95014EFA11CA}|AspNetCore.WebAPI\\AspNetCore.WebAPI.csproj|c:\\users\\krisc\\onedrive\\desktop\\21. cors\\web service api\\aspnetcore.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C0351E8-0DF2-4930-993B-95014EFA11CA}|AspNetCore.WebAPI\\AspNetCore.WebAPI.csproj|solutionrelative:aspnetcore.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\krisc\\OneDrive\\Desktop\\21. CORS\\Web Service API\\AspNetCore.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AspNetCore.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\krisc\\OneDrive\\Desktop\\21. CORS\\Web Service API\\AspNetCore.WebAPI\\appsettings.json",
+              "RelativeToolTip": "AspNetCore.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-15T05:35:59.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\krisc\\OneDrive\\Desktop\\21. CORS\\Web Service API\\AspNetCore.WebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AspNetCore.WebAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\krisc\\OneDrive\\Desktop\\21. CORS\\Web Service API\\AspNetCore.WebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "AspNetCore.WebAPI\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-15T05:35:59.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\krisc\\OneDrive\\Desktop\\21. CORS\\Web Service API\\AspNetCore.WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AspNetCore.WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\krisc\\OneDrive\\Desktop\\21. CORS\\Web Service API\\AspNetCore.WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AspNetCore.WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-15T05:35:59.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\krisc\\OneDrive\\Desktop\\21. CORS\\Web Service API\\AspNetCore.WebAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "AspNetCore.WebAPI\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\krisc\\OneDrive\\Desktop\\21. CORS\\Web Service API\\AspNetCore.WebAPI\\Models\\Student.cs",
+              "RelativeToolTip": "AspNetCore.WebAPI\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T05:35:59.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisc\\OneDrive\\Desktop\\21. CORS\\Web Service API\\AspNetCore.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AspNetCore.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\krisc\\OneDrive\\Desktop\\21. CORS\\Web Service API\\AspNetCore.WebAPI\\Program.cs",
+              "RelativeToolTip": "AspNetCore.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T05:35:59.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\krisc\\OneDrive\\Desktop\\21. CORS\\Web Service API\\AspNetCore.WebAPI\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "AspNetCore.WebAPI\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\krisc\\OneDrive\\Desktop\\21. CORS\\Web Service API\\AspNetCore.WebAPI\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "AspNetCore.WebAPI\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T05:35:59.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

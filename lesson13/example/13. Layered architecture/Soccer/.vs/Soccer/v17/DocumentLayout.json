@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\Step\\3 course\\ASP.NET\\lesson13\\example\\13. Layered architecture\\Soccer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9E809335-A111-42F2-817B-6EA0261ABDA7}|Soccer\\Soccer.csproj|d:\\step\\3 course\\asp.net\\lesson13\\example\\13. layered architecture\\soccer\\soccer\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E809335-A111-42F2-817B-6EA0261ABDA7}|Soccer\\Soccer.csproj|solutionrelative:soccer\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71574864-2A9D-475E-9E3D-E5CE983CBC39}|Soccer.DAL\\Soccer.DAL.csproj|d:\\step\\3 course\\asp.net\\lesson13\\example\\13. layered architecture\\soccer\\soccer.dal\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71574864-2A9D-475E-9E3D-E5CE983CBC39}|Soccer.DAL\\Soccer.DAL.csproj|solutionrelative:soccer.dal\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CC452B-D62A-4749-9E17-E2219CFA432B}|Soccer.BLL\\Soccer.BLL.csproj|d:\\step\\3 course\\asp.net\\lesson13\\example\\13. layered architecture\\soccer\\soccer.bll\\services\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CC452B-D62A-4749-9E17-E2219CFA432B}|Soccer.BLL\\Soccer.BLL.csproj|solutionrelative:soccer.bll\\services\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9E809335-A111-42F2-817B-6EA0261ABDA7}|Soccer\\Soccer.csproj|d:\\step\\3 course\\asp.net\\lesson13\\example\\13. layered architecture\\soccer\\soccer\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E809335-A111-42F2-817B-6EA0261ABDA7}|Soccer\\Soccer.csproj|solutionrelative:soccer\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E809335-A111-42F2-817B-6EA0261ABDA7}|Soccer\\Soccer.csproj|d:\\step\\3 course\\asp.net\\lesson13\\example\\13. layered architecture\\soccer\\soccer\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E809335-A111-42F2-817B-6EA0261ABDA7}|Soccer\\Soccer.csproj|solutionrelative:soccer\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E809335-A111-42F2-817B-6EA0261ABDA7}|Soccer\\Soccer.csproj|d:\\step\\3 course\\asp.net\\lesson13\\example\\13. layered architecture\\soccer\\soccer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E809335-A111-42F2-817B-6EA0261ABDA7}|Soccer\\Soccer.csproj|solutionrelative:soccer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,28 +43,65 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TeamsController.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson13\\example\\13. Layered architecture\\Soccer\\Soccer\\Controllers\\TeamsController.cs",
-              "RelativeDocumentMoniker": "Soccer\\Controllers\\TeamsController.cs",
-              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson13\\example\\13. Layered architecture\\Soccer\\Soccer\\Controllers\\TeamsController.cs",
-              "RelativeToolTip": "Soccer\\Controllers\\TeamsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "TeamRepository.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson13\\example\\13. Layered architecture\\Soccer\\Soccer.DAL\\Repositories\\TeamRepository.cs",
+              "RelativeDocumentMoniker": "Soccer.DAL\\Repositories\\TeamRepository.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson13\\example\\13. Layered architecture\\Soccer\\Soccer.DAL\\Repositories\\TeamRepository.cs",
+              "RelativeToolTip": "Soccer.DAL\\Repositories\\TeamRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T06:52:00.336Z",
+              "WhenOpened": "2025-04-19T16:36:15.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeamService.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson13\\example\\13. Layered architecture\\Soccer\\Soccer.BLL\\Services\\TeamService.cs",
+              "RelativeDocumentMoniker": "Soccer.BLL\\Services\\TeamService.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson13\\example\\13. Layered architecture\\Soccer\\Soccer.BLL\\Services\\TeamService.cs",
+              "RelativeToolTip": "Soccer.BLL\\Services\\TeamService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T16:36:23.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson13\\example\\13. Layered architecture\\Soccer\\Soccer\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "Soccer\\Controllers\\TeamsController.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson13\\example\\13. Layered architecture\\Soccer\\Soccer\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "Soccer\\Controllers\\TeamsController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwEYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:39:06.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson13\\example\\13. Layered architecture\\Soccer\\Soccer\\Program.cs",
+              "RelativeDocumentMoniker": "Soccer\\Program.cs",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson13\\example\\13. Layered architecture\\Soccer\\Soccer\\Program.cs",
+              "RelativeToolTip": "Soccer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:38:56.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PlayersController.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson13\\example\\13. Layered architecture\\Soccer\\Soccer\\Controllers\\PlayersController.cs",
               "RelativeDocumentMoniker": "Soccer\\Controllers\\PlayersController.cs",
               "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson13\\example\\13. Layered architecture\\Soccer\\Soccer\\Controllers\\PlayersController.cs",
               "RelativeToolTip": "Soccer\\Controllers\\PlayersController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwAoAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAwHgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T06:31:03.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T17:55:35.273Z"
             }
           ]
         }

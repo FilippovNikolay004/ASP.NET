@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{4A259DDE-878A-41A1-A283-CBF5F1DBA1F6}|Session\\Session.csproj|solutionrelative:session\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A259DDE-878A-41A1-A283-CBF5F1DBA1F6}|Session\\Session.csproj|d:\\step\\3 course\\asp.net\\lesson9\\example\\9. session\\session\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A259DDE-878A-41A1-A283-CBF5F1DBA1F6}|Session\\Session.csproj|solutionrelative:session\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A259DDE-878A-41A1-A283-CBF5F1DBA1F6}|Session\\Session.csproj|d:\\step\\3 course\\asp.net\\lesson9\\example\\9. session\\session\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A259DDE-878A-41A1-A283-CBF5F1DBA1F6}|Session\\Session.csproj|solutionrelative:session\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A259DDE-878A-41A1-A283-CBF5F1DBA1F6}|Session\\Session.csproj|d:\\step\\3 course\\asp.net\\lesson9\\example\\9. session\\session\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A259DDE-878A-41A1-A283-CBF5F1DBA1F6}|Session\\Session.csproj|solutionrelative:session\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A259DDE-878A-41A1-A283-CBF5F1DBA1F6}|Session\\Session.csproj|d:\\step\\3 course\\asp.net\\lesson9\\example\\9. session\\session\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -70,27 +70,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "LoginController.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson9\\example\\9. Session\\Session\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Session\\Controllers\\LoginController.cs",
               "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson9\\example\\9. Session\\Session\\Controllers\\LoginController.cs",
               "RelativeToolTip": "Session\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABHAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T10:35:13.276Z"
+              "WhenOpened": "2025-03-24T10:35:13.276Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson9\\example\\9. Session\\Session\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Session\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson9\\example\\9. Session\\Session\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Session\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAEwBEAAAAqAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T10:35:13.278Z"
+              "WhenOpened": "2025-03-24T10:35:13.278Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -100,7 +102,7 @@
               "RelativeDocumentMoniker": "Session\\Program.cs",
               "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson9\\example\\9. Session\\Session\\Program.cs",
               "RelativeToolTip": "Session\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T10:35:13.281Z",
               "EditorCaption": ""

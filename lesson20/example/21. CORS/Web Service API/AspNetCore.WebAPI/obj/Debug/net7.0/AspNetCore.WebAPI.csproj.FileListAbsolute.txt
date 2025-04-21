@@ -1,0 +1,360 @@
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\AspNetCore.WebAPI.exe
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\AspNetCore.WebAPI.deps.json
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\AspNetCore.WebAPI.runtimeconfig.json
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\AspNetCore.WebAPI.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\AspNetCore.WebAPI.pdb
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.AssemblyInfo.cs
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.AspNetCore.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.AspNetCore.WebAPI.props
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AspNetCore.WebAPI.props
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AspNetCore.WebAPI.props
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\scopedcss\bundle\AspNetCore.WebAPI.styles.css
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.csproj.CopyComplete
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\refint\AspNetCore.WebAPI.dll
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.pdb
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.genruntimeconfig.cache
+C:\Users\Admin\Downloads\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\ref\AspNetCore.WebAPI.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\AspNetCore.WebAPI.exe
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\AspNetCore.WebAPI.deps.json
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\AspNetCore.WebAPI.runtimeconfig.json
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\AspNetCore.WebAPI.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\AspNetCore.WebAPI.pdb
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.AssemblyInfo.cs
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.AspNetCore.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.AspNetCore.WebAPI.props
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AspNetCore.WebAPI.props
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AspNetCore.WebAPI.props
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\scopedcss\bundle\AspNetCore.WebAPI.styles.css
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.csproj.CopyComplete
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\refint\AspNetCore.WebAPI.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.pdb
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.genruntimeconfig.cache
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\ref\AspNetCore.WebAPI.dll
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.RazorAssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\appsettings.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\AspNetCore.WebAPI.exe
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\AspNetCore.WebAPI.deps.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\AspNetCore.WebAPI.runtimeconfig.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\AspNetCore.WebAPI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\AspNetCore.WebAPI.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Azure.Core.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Azure.Identity.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\System.Memory.Data.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.csproj.AssemblyReference.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.AssemblyInfoInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.AssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.RazorAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.RazorAssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.AspNetCore.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.AspNetCore.WebAPI.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AspNetCore.WebAPI.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AspNetCore.WebAPI.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\scopedcss\bundle\AspNetCore.WebAPI.styles.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.csproj.CopyComplete
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\refint\AspNetCore.WebAPI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.genruntimeconfig.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\AspNetCore.WebAPI\AspNetCore.WebAPI\obj\Debug\net7.0\ref\AspNetCore.WebAPI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\appsettings.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\AspNetCore.WebAPI.exe
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\AspNetCore.WebAPI.deps.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\AspNetCore.WebAPI.runtimeconfig.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\AspNetCore.WebAPI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\AspNetCore.WebAPI.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Azure.Core.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Azure.Identity.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\System.Memory.Data.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.csproj.AssemblyReference.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.AssemblyInfoInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.AssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.AspNetCore.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.AspNetCore.WebAPI.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AspNetCore.WebAPI.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AspNetCore.WebAPI.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\scopedcss\bundle\AspNetCore.WebAPI.styles.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.csproj.CopyComplete
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\refint\AspNetCore.WebAPI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.genruntimeconfig.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\ref\AspNetCore.WebAPI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\appsettings.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\AspNetCore.WebAPI.exe
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\AspNetCore.WebAPI.deps.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\AspNetCore.WebAPI.runtimeconfig.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\AspNetCore.WebAPI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\AspNetCore.WebAPI.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Azure.Core.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Azure.Identity.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\System.Memory.Data.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.csproj.AssemblyReference.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.AssemblyInfoInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.AssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.sourcelink.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.AspNetCore.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.AspNetCore.WebAPI.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AspNetCore.WebAPI.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AspNetCore.WebAPI.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\scopedcss\bundle\AspNetCore.WebAPI.styles.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.csproj.CopyComplete
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\refint\AspNetCore.WebAPI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\AspNetCore.WebAPI.genruntimeconfig.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\Web API (2)\18. Web API\Web Service API\AspNetCore.WebAPI\obj\Debug\net7.0\ref\AspNetCore.WebAPI.dll

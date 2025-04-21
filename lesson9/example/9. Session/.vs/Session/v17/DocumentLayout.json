@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\Step\\3 course\\ASP.NET\\lesson9\\example\\9. Session\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A259DDE-878A-41A1-A283-CBF5F1DBA1F6}|Session\\Session.csproj|d:\\step\\3 course\\asp.net\\lesson9\\example\\9. session\\session\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A259DDE-878A-41A1-A283-CBF5F1DBA1F6}|Session\\Session.csproj|solutionrelative:session\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A259DDE-878A-41A1-A283-CBF5F1DBA1F6}|Session\\Session.csproj|d:\\step\\3 course\\asp.net\\lesson9\\example\\9. session\\session\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A259DDE-878A-41A1-A283-CBF5F1DBA1F6}|Session\\Session.csproj|solutionrelative:session\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +11,12 @@
       "RelativeMoniker": "D:0:0:{4A259DDE-878A-41A1-A283-CBF5F1DBA1F6}|Session\\Session.csproj|solutionrelative:session\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A259DDE-878A-41A1-A283-CBF5F1DBA1F6}|Session\\Session.csproj|d:\\step\\3 course\\asp.net\\lesson9\\example\\9. session\\session\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4A259DDE-878A-41A1-A283-CBF5F1DBA1F6}|Session\\Session.csproj|solutionrelative:session\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A259DDE-878A-41A1-A283-CBF5F1DBA1F6}|Session\\Session.csproj|d:\\step\\3 course\\asp.net\\lesson9\\example\\9. session\\session\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A259DDE-878A-41A1-A283-CBF5F1DBA1F6}|Session\\Session.csproj|solutionrelative:session\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A259DDE-878A-41A1-A283-CBF5F1DBA1F6}|Session\\Session.csproj|d:\\step\\3 course\\asp.net\\lesson9\\example\\9. session\\session\\views\\login\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4A259DDE-878A-41A1-A283-CBF5F1DBA1F6}|Session\\Session.csproj|solutionrelative:session\\views\\login\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A259DDE-878A-41A1-A283-CBF5F1DBA1F6}|Session\\Session.csproj|d:\\step\\3 course\\asp.net\\lesson9\\example\\9. session\\session\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A259DDE-878A-41A1-A283-CBF5F1DBA1F6}|Session\\Session.csproj|solutionrelative:session\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,31 +38,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson9\\example\\9. Session\\Session\\Views\\Login\\Create.cshtml",
+              "RelativeDocumentMoniker": "Session\\Views\\Login\\Create.cshtml",
+              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson9\\example\\9. Session\\Session\\Views\\Login\\Create.cshtml",
+              "RelativeToolTip": "Session\\Views\\Login\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T05:53:19.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson9\\example\\9. Session\\Session\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Session\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson9\\example\\9. Session\\Session\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Session\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-24T10:35:13.27Z"
+              "WhenOpened": "2025-04-17T05:53:15.838Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson9\\example\\9. Session\\Session\\Models\\Login.cs",
-              "RelativeDocumentMoniker": "Session\\Models\\Login.cs",
-              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson9\\example\\9. Session\\Session\\Models\\Login.cs",
-              "RelativeToolTip": "Session\\Models\\Login.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T10:35:13.272Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LoginController.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson9\\example\\9. Session\\Session\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Session\\Controllers\\LoginController.cs",
@@ -78,46 +72,21 @@
               "RelativeToolTip": "Session\\Controllers\\LoginController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T10:35:13.276Z",
+              "WhenOpened": "2025-04-17T05:53:08.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson9\\example\\9. Session\\Session\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Session\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson9\\example\\9. Session\\Session\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Session\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T10:35:13.278Z",
+              "WhenOpened": "2025-04-17T05:53:04.297Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson9\\example\\9. Session\\Session\\Program.cs",
-              "RelativeDocumentMoniker": "Session\\Program.cs",
-              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson9\\example\\9. Session\\Session\\Program.cs",
-              "RelativeToolTip": "Session\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T10:35:13.281Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Step\\3 course\\ASP.NET\\lesson9\\example\\9. Session\\Session\\Views\\Login\\Create.cshtml",
-              "RelativeDocumentMoniker": "Session\\Views\\Login\\Create.cshtml",
-              "ToolTip": "D:\\Step\\3 course\\ASP.NET\\lesson9\\example\\9. Session\\Session\\Views\\Login\\Create.cshtml",
-              "RelativeToolTip": "Session\\Views\\Login\\Create.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACoAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-24T10:35:13.163Z"
             }
           ]
         }

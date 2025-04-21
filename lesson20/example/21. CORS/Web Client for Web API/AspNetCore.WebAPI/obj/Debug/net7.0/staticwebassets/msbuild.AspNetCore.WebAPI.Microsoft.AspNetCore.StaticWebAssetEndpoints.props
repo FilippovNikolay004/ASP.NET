@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/AspNetCore.WebAPI/Index.aglogb2vlh.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"aglogb2vlh"},{"Name":"integrity","Value":"sha256-mn6RCMJBE8ko0GVpkStSevQ9ziFhkEiCTOjhSdG0sl8="},{"Name":"label","Value":"_content/AspNetCore.WebAPI/Index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7982"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022mn6RCMJBE8ko0GVpkStSevQ9ziFhkEiCTOjhSdG0sl8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Apr 2025 05:42:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AspNetCore.WebAPI/Index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mn6RCMJBE8ko0GVpkStSevQ9ziFhkEiCTOjhSdG0sl8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7982"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022mn6RCMJBE8ko0GVpkStSevQ9ziFhkEiCTOjhSdG0sl8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Apr 2025 05:42:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
